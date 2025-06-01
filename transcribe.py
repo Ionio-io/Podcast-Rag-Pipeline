@@ -8,6 +8,7 @@ from datetime import timedelta
 from dotenv import load_dotenv
 import warnings
 import logging
+from pathlib import Path
 
 # Configure logging
 logging.basicConfig(
@@ -34,104 +35,90 @@ def format_timestamp(seconds):
     """Convert seconds to HH:MM:SS format"""
     return str(timedelta(seconds=round(seconds)))
 
-def transcribe_audio(audio_path, output_dir=DEFAULT_TRANSCRIPTS_DIR, with_diarization=True):
+def transcribe_audio(audio_path, with_diarization=True, progress_callback=None):
     """
-    Transcribe audio with optional speaker diarization
+    Transcribe audio file using Whisper and optionally perform speaker diarization
     
     Args:
         audio_path (str): Path to the audio file
-        output_dir (str): Directory to save transcripts
         with_diarization (bool): Whether to perform speaker diarization
-    
-    Returns:
-        str: Path to the output transcript file
+        progress_callback (callable): Optional callback function to report progress (0-100)
     """
-    logger.info("Loading Whisper model...")
-    whisper_model = whisper.load_model("base")
+    # Create transcripts directory if it doesn't exist
+    os.makedirs("transcripts", exist_ok=True)
     
     # Get base filename without extension
     base_name = os.path.splitext(os.path.basename(audio_path))[0]
-    logger.info(f"Processing {base_name}...")
     
-    # Transcribe with Whisper
+    # Load Whisper model
+    logger.info("Loading Whisper model...")
+    model = whisper.load_model("base")
+    
+    # Transcribe audio
     logger.info("Transcribing audio...")
-    if WHISPER_PROMPT:
-        logger.info(f"Using custom prompt: {WHISPER_PROMPT}")
-        result = whisper_model.transcribe(audio_path, initial_prompt=WHISPER_PROMPT)
-    else:
-        logger.info("No custom prompt provided, using default transcription")
-        result = whisper_model.transcribe(audio_path)
+    result = model.transcribe(
+        audio_path,
+        verbose=False,
+        language="en",
+        task="transcribe",
+        fp16=torch.cuda.is_available()
+    )
     
-    if not with_diarization:
-        # Save simple transcript without speaker information
-        final_transcript = [
-            {
-                "start": format_timestamp(segment["start"]),
-                "end": format_timestamp(segment["end"]),
-                "text": segment["text"].strip()
-            }
-            for segment in result["segments"]
-        ]
-    else:
+    if progress_callback:
+        progress_callback(50)  # Transcription is 50% complete
+    
+    # Process transcription results
+    segments = []
+    for segment in result["segments"]:
+        segment_data = {
+            "start": format_timestamp(segment["start"]),
+            "end": format_timestamp(segment["end"]),
+            "text": segment["text"].strip(),
+            "speaker": "Unknown"  # Default speaker
+        }
+        segments.append(segment_data)
+    
+    if with_diarization:
         # Perform speaker diarization
         logger.info("Performing speaker diarization...")
         pipeline = Pipeline.from_pretrained(
             "pyannote/speaker-diarization-3.1",
             use_auth_token=os.getenv("HF_TOKEN")
         )
+        
+        # Get speaker diarization results
         diarization = pipeline(audio_path)
         
-        # Convert diarization to a more usable format
-        speaker_segments = [
-            {
-                "start": turn.start,
-                "end": turn.end,
-                "speaker": speaker
-            }
-            for turn, _, speaker in diarization.itertracks(yield_label=True)
-        ]
+        if progress_callback:
+            progress_callback(75)  # Diarization is 75% complete
         
-        # Merge transcription with speaker information
-        logger.info("Merging transcription with speaker information...")
-        final_transcript = []
+        # Match speakers to segments
+        for segment in segments:
+            start_time = float(segment["start"].split(":")[-1])
+            end_time = float(segment["end"].split(":")[-1])
+            
+            # Find the most common speaker in this time range
+            speakers = []
+            for turn, _, speaker in diarization.itertracks(yield_label=True):
+                if turn.start <= end_time and turn.end >= start_time:
+                    speakers.append(speaker)
+            
+            if speakers:
+                # Use the most common speaker
+                segment["speaker"] = max(set(speakers), key=speakers.count)
         
-        for segment in result["segments"]:
-            segment_start = segment["start"]
-            segment_end = segment["end"]
-            
-            # Find overlapping speaker segments
-            overlapping_speakers = [
-                s for s in speaker_segments
-                if (s["start"] <= segment_end and s["end"] >= segment_start)
-            ]
-            
-            # If multiple speakers overlap, use the one with the most overlap
-            if overlapping_speakers:
-                best_speaker = max(
-                    overlapping_speakers,
-                    key=lambda s: min(s["end"], segment_end) - max(s["start"], segment_start)
-                )
-                speaker = best_speaker["speaker"]
-            else:
-                speaker = "UNKNOWN"
-            
-            final_transcript.append({
-                "start": format_timestamp(segment_start),
-                "end": format_timestamp(segment_end),
-                "speaker": speaker,
-                "text": segment["text"].strip()
-            })
+        if progress_callback:
+            progress_callback(90)  # Speaker matching is 90% complete
     
-    # Create output directory if it doesn't exist
-    os.makedirs(output_dir, exist_ok=True)
-    
-    # Save the transcript
-    output_suffix = "with_speakers" if with_diarization else "simple"
-    output_file = os.path.join(output_dir, f"{base_name}_{output_suffix}.json")
+    # Save results
+    output_file = os.path.join("transcripts", f"{base_name}.json")
     with open(output_file, "w", encoding="utf-8") as f:
-        json.dump(final_transcript, f, indent=2, ensure_ascii=False)
+        json.dump(segments, f, indent=2, ensure_ascii=False)
     
-    logger.info(f"Transcript saved to {output_file}")
+    if progress_callback:
+        progress_callback(100)  # Process is complete
+    
+    logger.info(f"Transcription saved to {output_file}")
     return output_file
 
 def process_audio_folder(input_dir=DEFAULT_AUDIO_DIR, output_dir=DEFAULT_TRANSCRIPTS_DIR, with_diarization=True):
@@ -170,7 +157,7 @@ def process_audio_folder(input_dir=DEFAULT_AUDIO_DIR, output_dir=DEFAULT_TRANSCR
         logger.info(f"\n{'='*50}")
         logger.info(f"Processing: {audio_file}")
         logger.info(f"{'='*50}")
-        transcribe_audio(audio_path, output_dir, with_diarization)
+        transcribe_audio(audio_path, with_diarization)
         logger.info(f"{'='*50}\n")
 
 if __name__ == "__main__":
