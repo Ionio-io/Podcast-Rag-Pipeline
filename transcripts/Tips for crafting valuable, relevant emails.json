@@ -1,0 +1,38 @@
+[
+  {
+    "start": "0:00:00",
+    "end": "0:00:06",
+    "text": "The event copy and having a centralized time, location, place, relevance, whatever that event key is,",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": "0:00:06",
+    "end": "0:00:08",
+    "text": "the Dodgers and the Yankees are playing.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:08",
+    "end": "0:00:13",
+    "text": "Having the email ready the next morning saying Yankees or the Dodgers are the World Series Champion",
+    "speaker": "SPEAKER_01"
+  },
+  {
+    "start": "0:00:13",
+    "end": "0:00:18",
+    "text": "and being able to have that ready even deployed in the morning, it's still hyper event personalized",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:18",
+    "end": "0:00:21",
+    "text": "and that will get attention because it feels relevant and feels new and fresh.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:22",
+    "end": "0:00:24",
+    "text": "Subscribe to the pod.",
+    "speaker": "SPEAKER_00"
+  }
+]

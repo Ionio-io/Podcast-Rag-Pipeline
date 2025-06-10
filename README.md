@@ -1,19 +1,19 @@
-# Video Transcription App
+# TranscribeRohan - Video Transcription & RAG System
 
-This application transcribes video files using FFmpeg and OpenAI's Whisper model. The process is split into two steps:
-1. Converting videos to audio files
-2. Transcribing the audio files to text with optional speaker diarization
+A complete video processing pipeline that downloads YouTube videos, transcribes them using OpenAI's Whisper, and provides a RAG (Retrieval-Augmented Generation) interface using OpenAI's Responses API for querying transcripts.
 
-## Prerequisites
+## Features
 
-- Python 3.8 or higher
-- FFmpeg installed on your system
-- Sufficient disk space for model downloads
-- Hugging Face account with access to Pyannote.audio models
+- 📺 **YouTube Video Download**: Download videos from YouTube channels or individual URLs
+- 🎵 **Audio Extraction**: Convert videos to high-quality audio files
+- 📝 **AI Transcription**: Transcribe audio using OpenAI's Whisper with speaker diarization
+- 🤖 **RAG System**: Query transcripts using OpenAI's Responses API with file search
+- 🌐 **Web Interface**: Streamlit-based chat interface for interacting with transcripts
+- 📊 **Progress Tracking**: Real-time progress bars for all operations
 
 ## Setup
 
-1. Create and activate the virtual environment:
+1. **Create and activate virtual environment:**
 ```bash
 python3 -m venv venv
 source venv/bin/activate  # On Unix/macOS
@@ -21,118 +21,132 @@ source venv/bin/activate  # On Unix/macOS
 .\venv\Scripts\activate  # On Windows
 ```
 
-2. Install the required packages:
+2. **Install dependencies:**
 ```bash
 pip install -r requirements.txt
 ```
 
-3. Install FFmpeg:
-- On macOS: `brew install ffmpeg`
-- On Ubuntu/Debian: `sudo apt-get install ffmpeg`
-- On Windows: Download from https://ffmpeg.org/download.html
+3. **Install FFmpeg:**
+- macOS: `brew install ffmpeg`
+- Ubuntu/Debian: `sudo apt-get install ffmpeg`
+- Windows: Download from https://ffmpeg.org/download.html
 
-4. Set up environment variables:
-Create a `.env` file in the project root with:
+4. **Set up environment variables:**
+Create a `.env` file in the project root:
 ```env
-# Hugging Face token for Pyannote.audio
+# Hugging Face token for speaker diarization
 HF_TOKEN=your_huggingface_token_here
 
-# Optional: Whisper prompt for better transcription
-WHISPER_PROMPT="This is a conversation involving Rohan from Ionio. The discussion includes topics about LLMs, Large Language Models, Generative AI, and artificial intelligence. Common terms include: Rohan, Ionio, LLMs, GenAI, artificial intelligence, machine learning, deep learning, transformers, and neural networks."
+# OpenAI API key for RAG system
+OPENAI_API_KEY=your_openai_api_key_here
+
+# Optional: Custom Whisper prompt
+WHISPER_PROMPT="This is a conversation involving topics about AI, machine learning, and technology."
 ```
 
 ## Usage
 
-### Quick Start (Recommended)
-Process a video file directly:
+### 1. Download YouTube Videos
+
 ```bash
-# Process video with speaker diarization
-python main.py /path/to/your/video.mp4
+# Download from a channel
+python download_youtube.py --channel CHANNEL_ID
 
-# Process video with simple transcription
-python main.py /path/to/your/video.mp4 --simple
+# Download single video
+python download_youtube.py --url "https://www.youtube.com/watch?v=VIDEO_ID"
 
-# Specify custom output directory
-python main.py /path/to/your/video.mp4 --output-dir custom/videos
+# Download with custom output directory
+python download_youtube.py --channel CHANNEL_ID --output-dir my_videos
 ```
 
-### Manual Processing
-If you prefer to process videos manually:
+### 2. Transcribe Videos
 
-1. Place your video files in the `videos` directory
-
-2. Extract audio from videos:
 ```bash
-python extract_audio.py
-```
-This will create WAV files in the `audio` directory.
-
-3. Transcribe the audio files:
-```bash
-# Simple transcription without speaker diarization
-python transcribe_simple.py
-
-# Full transcription with speaker diarization
+# Transcribe all videos in the videos directory
 python transcribe.py
 
-# Additional options for transcription with speakers:
-python transcribe.py --simple  # Force simple transcription
-python transcribe.py --input-dir custom/input --output-dir custom/output  # Custom directories
+# Transcribe specific audio file
+python transcribe.py --input path/to/audio.wav
+
+# Simple transcription without speaker diarization
+python transcribe.py --simple
 ```
 
-## Features
+### 3. Run RAG System
 
-- Supports multiple video formats (mp4, avi, mov, mkv)
-- Uses OpenAI's Whisper model for accurate transcription
-- Optional speaker diarization using Pyannote.audio
-- Custom prompts for better transcription accuracy
-- Progress bars for tracking conversion and transcription status
-- Automatic audio extraction from video files
-- Skips already processed files
-- Separate steps for better control and error handling
-- JSON output format for easy parsing
-- Configurable input/output directories
-- Clean logging without unnecessary warnings
-- One-command processing of local video files
+```bash
+# Start the Streamlit web interface
+streamlit run app.py
+```
 
-## Directory Structure
+Then open your browser to the displayed URL (usually http://localhost:8501) to:
+- Upload transcript files to OpenAI's file search
+- Chat with your transcripts using natural language
+- Get source-cited responses from your video content
 
-- `videos/`: Place your video files here
-- `audio/`: Contains extracted audio files
-- `transcripts/`: Contains the final transcriptions in JSON format
-  - `*_simple.json`: Simple transcription without speaker information
-  - `*_with_speakers.json`: Transcription with speaker diarization
+## Project Structure
 
-## Scripts
+```
+TranscribeRohan/
+├── app.py                    # Streamlit RAG interface
+├── rag_system.py            # OpenAI Responses API integration
+├── transcribe.py            # Main transcription script
+├── extract_audio.py         # Audio extraction utilities
+├── download_youtube.py      # YouTube downloader
+├── requirements.txt         # All dependencies
+├── .env                     # Environment variables (create this)
+├── transcripts/             # Generated transcript files (JSON)
+├── audio/                   # Extracted audio files (WAV)
+├── videos/                  # Local video files
+└── downloaded_videos/       # YouTube downloads
+```
 
-- `main.py`: Main script for processing video files
-- `extract_audio.py`: Extracts audio from video files
-- `transcribe_simple.py`: Simple transcription without speaker diarization
-- `transcribe.py`: Main transcription script with speaker diarization support
+## Output Formats
 
-## Output Format
+### Transcripts
+Saved as JSON files in `transcripts/` directory:
 
-The transcription is saved in JSON format with the following structure:
-
-For simple transcription:
+**Simple transcription:**
 ```json
 [
   {
     "start": "00:00:00",
-    "end": "00:00:05",
+    "end": "00:00:05", 
     "text": "Transcribed text here"
   }
 ]
 ```
 
-For transcription with speakers:
+**With speaker diarization:**
 ```json
 [
   {
     "start": "00:00:00",
     "end": "00:00:05",
-    "speaker": "SPEAKER_1",
+    "speaker": "SPEAKER_1", 
     "text": "Transcribed text here"
   }
 ]
-``` 
+```
+
+## Dependencies
+
+- **Core**: Python 3.8+, FFmpeg
+- **AI Models**: OpenAI Whisper, Pyannote.audio for speaker diarization
+- **APIs**: OpenAI API for RAG functionality
+- **Web**: Streamlit for user interface
+- **Media**: yt-dlp for YouTube downloads, ffmpeg-python for audio processing
+
+## Notes
+
+- Large media files (videos/audio) are excluded from git by default
+- Transcript JSON files in `transcripts/` are preserved in git
+- The RAG system uses OpenAI's latest Responses API with file search capabilities
+- Speaker diarization requires a Hugging Face account and token
+
+## Troubleshooting
+
+- **SSL Certificate Issues**: The app handles SSL certificate verification automatically
+- **Memory Issues**: For large files, consider processing videos in smaller batches
+- **API Rate Limits**: OpenAI API calls are automatically rate-limited
+- **File Upload Limits**: OpenAI has file size limits for uploaded documents 

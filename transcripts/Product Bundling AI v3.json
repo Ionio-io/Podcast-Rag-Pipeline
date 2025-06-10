@@ -1,0 +1,566 @@
+[
+  {
+    "start": "0:00:00",
+    "end": "0:00:05",
+    "text": "We built an AI powered dynamic product bundle creator that helps mid-market e-commerce brands",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:05",
+    "end": "0:00:09",
+    "text": "increase average auto value and reduce decision fatigue for customers.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:09",
+    "end": "0:00:13",
+    "text": "And in this video, I'll show you exactly how we did it and why it might be useful for your",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:13",
+    "end": "0:00:14",
+    "text": "brand.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:14",
+    "end": "0:00:18",
+    "text": "All of the code discussed in this video can be found on our blog with a link in the description",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:18",
+    "end": "0:00:19",
+    "text": "and a demo video somewhere.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:19",
+    "end": "0:00:22",
+    "text": "And the original idea for this actually came from a post by Kirti Gupta.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:22",
+    "end": "0:00:26",
+    "text": "She pointed out how quick commerce platforms were missing a huge opportunity by not offering",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:26",
+    "end": "0:00:28",
+    "text": "situation specific bundles.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:28",
+    "end": "0:00:30",
+    "text": "And we thought we could build something to solve that.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:30",
+    "end": "0:00:31",
+    "text": "So we did.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:31",
+    "end": "0:00:36",
+    "text": "I'm Rohan Savant and I run IONU and we help mid-market e-commerce companies leverage AI.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:36",
+    "end": "0:00:39",
+    "text": "Over the last four years, we have helped dozens and dozens of organizations ideate, build",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:39",
+    "end": "0:00:41",
+    "text": "and deploy AI and SaaS projects.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:41",
+    "end": "0:00:44",
+    "text": "So if that is something you're interested in, please drop me a message.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:44",
+    "end": "0:00:47",
+    "text": "Let's talk about the challenges in bundle creation for retailers and large e-commerce",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:47",
+    "end": "0:00:48",
+    "text": "brands.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:48",
+    "end": "0:00:52",
+    "text": "Bundling isn't just difficult, it's a multi-layered organizational and technical nightmare for",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:52",
+    "end": "0:00:55",
+    "text": "most large retail organizations.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:55",
+    "end": "0:00:56",
+    "text": "And here are some of the challenges.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:00:56",
+    "end": "0:01:00",
+    "text": "Most retailers and brands outsource their marketing to agencies and the agencies often",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:00",
+    "end": "0:01:05",
+    "text": "don't have direct access to product data and have to go through multiple stakeholders just",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:05",
+    "end": "0:01:07",
+    "text": "so that they can get basic information.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:07",
+    "end": "0:01:11",
+    "text": "The merchandising team, the marketing team, the agency, all of them rarely communicate",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:11",
+    "end": "0:01:14",
+    "text": "with each other effectively, which creates bottlenecks in this bundling process.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:14",
+    "end": "0:01:17",
+    "text": "And this is even before we start talking about a technical complexity.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:17",
+    "end": "0:01:24",
+    "text": "The average retailer is running a patchwork of systems, legacy systems, PIM systems, separate",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:24",
+    "end": "0:01:26",
+    "text": "e-commerce platforms and various other marketing tools.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:26",
+    "end": "0:01:29",
+    "text": "None of these systems interact easily with each other.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:29",
+    "end": "0:01:33",
+    "text": "Even when you have access to the product data, it is often incomplete, inconsistent or the",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:33",
+    "end": "0:01:36",
+    "text": "SKUs might be missing critical attributes like descriptions and creating bundles manually",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:36",
+    "end": "0:01:42",
+    "text": "requires clean and comprehensive data, which most retailers and brands might not have.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:42",
+    "end": "0:01:46",
+    "text": "Creating and maintaining these bundles also requires dedicated merchandising resources",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:46",
+    "end": "0:01:48",
+    "text": "for a catalog with a thousand products.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:48",
+    "end": "0:01:52",
+    "text": "The possible bundle combinations could be in the hundreds and most retailers can't really",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:52",
+    "end": "0:01:56",
+    "text": "justify allocating significant resources to doing what they perceive might be a nice to",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:56",
+    "end": "0:01:58",
+    "text": "have feature with uncertain ROI.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:58",
+    "end": "0:02:02",
+    "text": "And this is precisely where AI can transform the entire approach.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:02",
+    "end": "0:02:07",
+    "text": "It makes bundling automatic, data driven and fully dynamic without needing a massive overhaul",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:07",
+    "end": "0:02:08",
+    "text": "of the existing systems.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:08",
+    "end": "0:02:12",
+    "text": "The bundle creator that we designed is designed specifically for mid-market e-commerce brands",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:12",
+    "end": "0:02:15",
+    "text": "with catalogs ranging from hundreds to thousands of products.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:15",
+    "end": "0:02:18",
+    "text": "It's meant to be implemented by the digital team or the agency handling the e-commerce",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:18",
+    "end": "0:02:22",
+    "text": "operations and it acts as a layer on top of the existing systems instead of replacing",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:22",
+    "end": "0:02:23",
+    "text": "them.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:23",
+    "end": "0:02:26",
+    "text": "And the solution can be deployed anywhere where the product catalog is managed.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:26",
+    "end": "0:02:28",
+    "text": "Like Shopify, e-commerce, anywhere.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:28",
+    "end": "0:02:31",
+    "text": "And what makes this powerful is that you don't need a massive data infrastructure to power",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:31",
+    "end": "0:02:32",
+    "text": "this.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:32",
+    "end": "0:02:35",
+    "text": "Our custom implementation really works off of the data that you have right now on the",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:35",
+    "end": "0:02:36",
+    "text": "e-commerce platform.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:36",
+    "end": "0:02:38",
+    "text": "So let's jump right into it.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:38",
+    "end": "0:02:40",
+    "text": "So here is exactly how we build the bundle creator.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:40",
+    "end": "0:02:45",
+    "text": "First we take the entire product catalog and product by product, we pass in every item",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:45",
+    "end": "0:02:48",
+    "text": "through GPT-4-0 to generate a complimentary product selection.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:48",
+    "end": "0:02:52",
+    "text": "For example, if a customer is looking at a coffee maker, the model identifies that that",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:52",
+    "end": "0:02:55",
+    "text": "product might naturally go with coffee beans, filters, a grinder, etc.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:55",
+    "end": "0:02:58",
+    "text": "The model generates these recommendations based on context.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:58",
+    "end": "0:03:01",
+    "text": "If someone is buying a coffee maker, what are they trying to do?",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:01",
+    "end": "0:03:02",
+    "text": "Make coffee.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:02",
+    "end": "0:03:04",
+    "text": "What else do they need to make coffee effectively?",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:04",
+    "end": "0:03:07",
+    "text": "We ask these questions and we come up with a list of complimentary products.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:07",
+    "end": "0:03:11",
+    "text": "Once we have the initial recommendations, we need to match them with the actual products",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:11",
+    "end": "0:03:12",
+    "text": "in the store's catalog.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:12",
+    "end": "0:03:17",
+    "text": "And this is where we used our own custom embedding model that we trained in one of our older",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:17",
+    "end": "0:03:18",
+    "text": "videos.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:18",
+    "end": "0:03:21",
+    "text": "You can find that on our site by just looking for retail embedding model IONIW.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:21",
+    "end": "0:03:22",
+    "text": "If you Google that, you'll find it.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:22",
+    "end": "0:03:27",
+    "text": "The model that we trained is twice more accurate than the standard pre-print embedding model.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:27",
+    "end": "0:03:32",
+    "text": "So we just use our own model to convert the AIS listed products into actual catalog products",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:32",
+    "end": "0:03:34",
+    "text": "from the brand's catalog.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:34",
+    "end": "0:03:38",
+    "text": "And this helps us find the closest matches in the real inventory.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:38",
+    "end": "0:03:43",
+    "text": "Step 3, with our matched product descriptions, we go back to the LLM, in this case GPT-4-0,",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:43",
+    "end": "0:03:47",
+    "text": "to generate compelling product bundle name, description and marketing copy.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:47",
+    "end": "0:03:52",
+    "text": "For example, instead of just grouping related coffee products, the AI might create a morning",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:52",
+    "end": "0:03:57",
+    "text": "brew master kit with a description that highlights how each product works together to give a",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:57",
+    "end": "0:03:58",
+    "text": "perfect coffee experience.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:58",
+    "end": "0:04:02",
+    "text": "We also generate three separate bundle options for each product, giving merchants the flexibility",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:02",
+    "end": "0:04:04",
+    "text": "in what they offer to their customers.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:04",
+    "end": "0:04:08",
+    "text": "Inside Shopify, talking about real life implementation, the system can be deployed as a Shopify or",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:08",
+    "end": "0:04:13",
+    "text": "a WooCommerce app that runs in the background, generates product bundles automatically based",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:13",
+    "end": "0:04:14",
+    "text": "on inventory.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:14",
+    "end": "0:04:19",
+    "text": "And these bundles can then appear on the product pages under Frequently Bought Together, Complete",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:20",
+    "end": "0:04:24",
+    "text": "your purchase sections using Shopify's native functionality and as a Shopify plugin.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:24",
+    "end": "0:04:28",
+    "text": "As the inventory changes or as seasonal trends shift, the system can automatically refresh",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:28",
+    "end": "0:04:30",
+    "text": "the bundle recommendations without manual intervention.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:30",
+    "end": "0:04:34",
+    "text": "And what is particularly powerful about this is that this entire system doesn't really",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:34",
+    "end": "0:04:36",
+    "text": "need any maintenance or just code changes.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:36",
+    "end": "0:04:40",
+    "text": "It just pretty much runs on its own and it creates bundles, which are just an additional",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:40",
+    "end": "0:04:43",
+    "text": "layer on top of the e-commerce platform that you already have.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:43",
+    "end": "0:04:45",
+    "text": "In the end, it's a win-win.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:45",
+    "end": "0:04:49",
+    "text": "Retailers get relevant and valuable product combinations that actually solve their problems,",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:49",
+    "end": "0:04:53",
+    "text": "while retailers get to increase their revenue and build stronger customer relations.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:53",
+    "end": "0:04:54",
+    "text": "So, yeah, that's that.",
+    "speaker": "Unknown"
+  }
+]

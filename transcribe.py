@@ -9,6 +9,15 @@ from dotenv import load_dotenv
 import warnings
 import logging
 from pathlib import Path
+import ssl
+import urllib.request
+
+# IMPORTANT: Fix SSL certificate issues BEFORE importing anything else
+try:
+    ssl._create_default_https_context = ssl._create_unverified_context
+    print("SSL certificate verification disabled globally")
+except Exception as e:
+    print(f"Warning: Could not disable SSL verification: {e}")
 
 # Configure logging
 logging.basicConfig(
@@ -31,6 +40,53 @@ DEFAULT_TRANSCRIPTS_DIR = "transcripts"
 # Get Whisper prompt from environment variable
 WHISPER_PROMPT = os.getenv("WHISPER_PROMPT", "")
 
+def fix_ssl_certificate():
+    """Fix SSL certificate issues for macOS"""
+    try:
+        # Create unverified SSL context
+        ssl._create_default_https_context = ssl._create_unverified_context
+        logger.info("SSL certificate verification disabled for model downloads")
+    except Exception as e:
+        logger.warning(f"Could not disable SSL verification: {e}")
+
+def load_whisper_model_with_retry(model_name="medium", max_retries=3):
+    """
+    Load Whisper model with SSL error handling and retries
+    
+    Args:
+        model_name (str): Name of the Whisper model to load
+        max_retries (int): Maximum number of retry attempts
+    """
+    for attempt in range(max_retries):
+        try:
+            logger.info(f"Loading Whisper model '{model_name}' (attempt {attempt + 1}/{max_retries})...")
+            model = whisper.load_model(model_name)
+            logger.info("Model loaded successfully!")
+            return model
+        except Exception as e:
+            if "CERTIFICATE_VERIFY_FAILED" in str(e) or "SSL" in str(e):
+                logger.warning(f"SSL certificate error on attempt {attempt + 1}: {e}")
+                if attempt == 0:
+                    # Try fixing SSL on first failure
+                    fix_ssl_certificate()
+                    continue
+                elif attempt < max_retries - 1:
+                    # Try a smaller model if SSL issues persist
+                    if model_name == "medium":
+                        logger.info("Trying smaller 'small' model due to SSL issues...")
+                        model_name = "small"
+                        continue
+                    elif model_name == "small":
+                        logger.info("Trying 'base' model due to SSL issues...")
+                        model_name = "base"
+                        continue
+            else:
+                logger.error(f"Error loading model: {e}")
+            
+            if attempt == max_retries - 1:
+                logger.error("Failed to load Whisper model after all retries")
+                raise e
+
 def format_timestamp(seconds):
     """Convert seconds to HH:MM:SS format"""
     return str(timedelta(seconds=round(seconds)))
@@ -52,7 +108,7 @@ def transcribe_audio(audio_path, with_diarization=True, progress_callback=None):
     
     # Load Whisper model
     logger.info("Loading Whisper model...")
-    model = whisper.load_model("base")
+    model = load_whisper_model_with_retry()
     
     # Transcribe audio
     logger.info("Transcribing audio...")
@@ -171,9 +227,22 @@ if __name__ == "__main__":
                       help=f"Output directory for transcripts (default: {DEFAULT_TRANSCRIPTS_DIR})")
     parser.add_argument("--simple", action="store_true",
                       help="Perform simple transcription without speaker diarization")
+    parser.add_argument("--file", type=str,
+                      help="Transcribe a single audio file instead of processing a directory")
     
     args = parser.parse_args()
     
+    # Handle single file transcription
+    if args.file:
+        if not os.path.exists(args.file):
+            logger.error(f"Error: File {args.file} does not exist")
+            sys.exit(1)
+        
+        logger.info(f"Transcribing single file: {args.file}")
+        transcribe_audio(args.file, not args.simple)
+        sys.exit(0)
+    
+    # Handle directory processing
     if not os.path.exists(args.input_dir):
         logger.error(f"Error: Directory {args.input_dir} does not exist")
         logger.error(f"Please ensure the directory exists and contains audio files")

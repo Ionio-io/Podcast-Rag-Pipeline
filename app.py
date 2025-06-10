@@ -1,6 +1,6 @@
 import streamlit as st
 import os
-from rag_system_responses_api import ResponsesAPIRAG
+from rag_system import ResponsesAPIRAG
 import tempfile
 import locale
 import sys

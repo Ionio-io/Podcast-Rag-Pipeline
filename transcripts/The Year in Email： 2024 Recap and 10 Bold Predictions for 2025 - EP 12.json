@@ -1,0 +1,4106 @@
+[
+  {
+    "start": "0:00:00",
+    "end": "0:00:07",
+    "text": "Deliverability is going to be one of the most important skills for marketers to learn, understand, and improve upon.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:07",
+    "end": "0:00:11",
+    "text": "It's not just about strategy and sending campaigns and writing copy.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:11",
+    "end": "0:00:15",
+    "text": "It's about making sure that all the work that you're doing is for good use.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:15",
+    "end": "0:00:20",
+    "text": "Being able to understand things like delivery metrics, identifying issues, and adjusting strategies",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:00:20",
+    "end": "0:00:23",
+    "text": "are going to be essential for retention marketers.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:00:23",
+    "end": "0:00:26",
+    "text": "And automations are more important than you've ever thought about.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:00:26",
+    "end": "0:00:28",
+    "text": "That's very key that people don't think about.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:00:28",
+    "end": "0:00:32",
+    "text": "Everyone focused on campaign and now we're talking about deliverability being something.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:00:32",
+    "end": "0:00:38",
+    "text": "The thought of being able to engage with other like-minded folks, finding other people that I know and like and trust in the community.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:00:38",
+    "end": "0:00:39",
+    "text": "That's so important, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:39",
+    "end": "0:00:43",
+    "text": "Sense of belonging and that sense of purpose and that sense of just trust is everything.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:43",
+    "end": "0:00:45",
+    "text": "Yo, yo, what's up Chase? How are you, dude?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:45",
+    "end": "0:00:48",
+    "text": "Doing well, thanks man. I'm stoked to be back. How are you?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:48",
+    "end": "0:00:49",
+    "text": "Yeah, dude. How was your holiday?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:49",
+    "end": "0:00:54",
+    "text": "Oh man, the holiday was awesome. I didn't know what day it was for like two straight weeks, but it was great, I guess.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:00:54",
+    "end": "0:01:02",
+    "text": "It's that like weird time after Christmas to New Year's, which is like you're just not even sure what day is what because like some days you're off, off, right?",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:01:02",
+    "end": "0:01:05",
+    "text": "And some days you're on and you're just like not even sure what's going on.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:01:05",
+    "end": "0:01:08",
+    "text": "Yeah, it was crazy, but glad to be back. It sounds like you had a good holiday as well.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:01:08",
+    "end": "0:01:13",
+    "text": "Yeah, man. Good holiday. Some R&R. Got a crap ton of work done along the way.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:01:13",
+    "end": "0:01:22",
+    "text": "And dude, I, you know, and I'm going to say this with me and this in the nicest way, but man, holidays burn me out in a weird way because I like consistency and schedule, man.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:01:22",
+    "end": "0:01:25",
+    "text": "I like being to knowing what I'm going to do the next day, you know?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:01:25",
+    "end": "0:01:28",
+    "text": "Yeah, and weird when the holiday was like two back to back Tuesdays and Wednesdays.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:01:28",
+    "end": "0:01:32",
+    "text": "Like I love holidays on Fridays and Mondays, but the middle of the week just makes it tough.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:01:32",
+    "end": "0:01:35",
+    "text": "Totally. All right. Well, we got a big one today, man.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:01:35",
+    "end": "0:01:38",
+    "text": "So let's shoot this thing in three, two, one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:01:52",
+    "end": "0:02:06",
+    "text": "What's up, everyone? Welcome to Send It where we discuss anything and everything retention marketing, specifically email and SMS.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:02:06",
+    "end": "0:02:10",
+    "text": "My name is Jimmy Kim and I'm here with my co-host, Chase Diamond.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:02:10",
+    "end": "0:02:14",
+    "text": "All right, Chase, dude. This episode is going to be really fun.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:02:15",
+    "end": "0:02:22",
+    "text": "The episode title is The Year of Email 2024 Recap and 10 Bold Predictions for 2025 from you and I.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:02:22",
+    "end": "0:02:28",
+    "text": "But before we get off and start doing that, I want to start off with a little bit of a hot off the press news.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:02:28",
+    "end": "0:02:30",
+    "text": "You want to know what I'm talking about?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:02:30",
+    "end": "0:02:31",
+    "text": "Yeah, hit me. I miss this.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:02:31",
+    "end": "0:02:33",
+    "text": "All right. Another one. This one's really fun, too.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:02:33",
+    "end": "0:02:39",
+    "text": "So Comcast.net has now joined official ranks of Gmail, Yahoo and Microsoft,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:02:39",
+    "end": "0:02:44",
+    "text": "and they are now sunsetting emails that are over two years old and dormant or inactive now again.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:02:44",
+    "end": "0:02:52",
+    "text": "So to clarify that, so the email being dormant now for 24 months or the email has been in use for two years and then has gone dormant for X amount of time?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:02:52",
+    "end": "0:02:55",
+    "text": "It's been dormant or inactive for two years.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:02:55",
+    "end": "0:02:57",
+    "text": "So like I guess like people aren't logging in or using it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:02:57",
+    "end": "0:03:02",
+    "text": "I'm assuming this has a lot to do with the fact that Comcast gives people a free email when you sign up for their service.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:03:02",
+    "end": "0:03:05",
+    "text": "And then obviously most people aren't using it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:03:05",
+    "end": "0:03:07",
+    "text": "They realized, hey, we can just go ahead and get rid of this thing.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:03:07",
+    "end": "0:03:10",
+    "text": "Wow. So for people, this is good to know.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:03:10",
+    "end": "0:03:17",
+    "text": "So if you have Comcast and people aren't opening or engaging, it's time to clean them off the list if it's been kind of repeated behavior.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:03:17",
+    "end": "0:03:23",
+    "text": "Yep, absolutely. And it's already a little bit of a tough little channel like Comcast emails have always been a little tough to deal with.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:03:23",
+    "end": "0:03:28",
+    "text": "So this is just another thing that you've got to be doing with your list hygiene and segmentation.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:03:28",
+    "end": "0:03:29",
+    "text": "Cool. Great. That was a good one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:03:29",
+    "end": "0:03:32",
+    "text": "Cool. Well, dude, we're diving into a massive topic today.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:03:32",
+    "end": "0:03:37",
+    "text": "The year of the email of 2024 and our bold predictions for 2025.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:03:37",
+    "end": "0:03:42",
+    "text": "Yeah, dude, I'm excited. And a lot of this data was from our partners over Omnisend.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:03:42",
+    "end": "0:03:48",
+    "text": "And I think Omnisend is going to be the ESP of choice for all, if not most, e-commerce brands for 2025 and beyond.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:03:48",
+    "end": "0:03:56",
+    "text": "So really excited for some of the kind of outside the box stats and some of the predictions that we have kind of alongside them and some of our own as well.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:03:56",
+    "end": "0:03:59",
+    "text": "Yeah, dude. So many numbers they gave us.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:03:59",
+    "end": "0:04:05",
+    "text": "Like these two docs and sheet and we were going through it and trying to analyze the data and the number and there was so much there.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:04:05",
+    "end": "0:04:09",
+    "text": "So I'm going to kind of set the stage here and we'll start by setting the stage of what we can learn.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:04:09",
+    "end": "0:04:14",
+    "text": "So the insights based on 23 billion emails, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:04:14",
+    "end": "0:04:19",
+    "text": "Two hundred and twenty one million SMS and four hundred million push notifications.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:04:19",
+    "end": "0:04:25",
+    "text": "And we're going to dive through where what they saw last year and then we're going to make predictions based on next year.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:04:25",
+    "end": "0:04:27",
+    "text": "But let me start with the big picture.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:04:27",
+    "end": "0:04:31",
+    "text": "And this is probably the most important thing that I saw, which was really, really interesting.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:04:31",
+    "end": "0:04:40",
+    "text": "Omnisend reported that their average ROI of email was up to sixty six dollars and sixty two cents for every one dollar spent on email.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:04:40",
+    "end": "0:04:47",
+    "text": "That means you have a sixty six point six X and it's a really funny number ROI or return of investment with email.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:04:47",
+    "end": "0:04:50",
+    "text": "And in fact, in November, they saw it spike up to ninety two dollars.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:04:51",
+    "end": "0:04:55",
+    "text": "That's an incredible performance for a channel that remains the cornerstone of retention marketing.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:04:55",
+    "end": "0:05:05",
+    "text": "Yeah. And I remember when I think I first started like, I don't know, however long ago, I think email was always important, but I think it was like, I don't know, fifteen, twenty, thirty bucks.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:05:05",
+    "end": "0:05:10",
+    "text": "So it's really cool and really interesting to see the ROI of email actually only increasing.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:05:10",
+    "end": "0:05:13",
+    "text": "I think most people would have expected it to stay steady or decrease.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:05:13",
+    "end": "0:05:17",
+    "text": "But from everything I've seen from back when I remember till now, it's increasing.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:05:17",
+    "end": "0:05:20",
+    "text": "Do you remember when you got started? Does that sound kind of similar?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:05:20",
+    "end": "0:05:25",
+    "text": "Yeah, you know, the sales pitch back in the day was like you get forty two dollars for every dollar you spend.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:05:25",
+    "end": "0:05:27",
+    "text": "So, yeah, it's definitely increased.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:05:27",
+    "end": "0:05:30",
+    "text": "The numbers stuck in my head are thirty six dollars and forty two dollars.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:05:30",
+    "end": "0:05:35",
+    "text": "I remember that number and I don't know who made up that number or where that stat came from.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:05:35",
+    "end": "0:05:37",
+    "text": "So there's no reliability to that number.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:05:37",
+    "end": "0:05:43",
+    "text": "I just purely remember that was the pitch that I heard from like agencies and SAS companies and creators and stuff like that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:05:43",
+    "end": "0:05:46",
+    "text": "So that's always stuck in my head as well, too.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:05:46",
+    "end": "0:06:00",
+    "text": "Yeah, so I guess really the takeaway before we dive in, right, is that data given the fact that we have historical stuff and then now it really underscores like how important of a channel email is and really how consistent and reliable of a channel it is and ultimately really cost effective.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:06:00",
+    "end": "0:06:04",
+    "text": "And the other thing to write is like you mentioned sixty six dollar ROI.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:04",
+    "end": "0:06:06",
+    "text": "That's the average throughout the year.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:06",
+    "end": "0:06:08",
+    "text": "So that's really high.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:08",
+    "end": "0:06:12",
+    "text": "And then obviously, right in November being 92, that's high as well.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:12",
+    "end": "0:06:13",
+    "text": "So it wasn't just seasonal.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:14",
+    "end": "0:06:17",
+    "text": "It was a great year across the board, which is awesome.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:06:17",
+    "end": "0:06:17",
+    "text": "Yeah, absolutely.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:06:17",
+    "end": "0:06:22",
+    "text": "And as I was kind of diving through here and now we know open rates aren't the most reliable metric.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:06:22",
+    "end": "0:06:28",
+    "text": "But again, as they were measuring their metrics, they saw an increase in open rates from twenty five point one percent to twenty six point five.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:06:28",
+    "end": "0:06:32",
+    "text": "And that backs kind of the data that we are kind of already heard and saw before.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:06:32",
+    "end": "0:06:38",
+    "text": "And you know, even a click through the rate, we saw the click through rate at an average of one point two three percent.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:06:38",
+    "end": "0:06:41",
+    "text": "So that's actually a really active channel that's converting leads to revenue.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:41",
+    "end": "0:06:42",
+    "text": "Nice.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:42",
+    "end": "0:06:42",
+    "text": "That's cool.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:42",
+    "end": "0:06:49",
+    "text": "Yeah, one of the interesting things on the engagement side for me, one of the things that stood out was the role of emojis in subject lines.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:49",
+    "end": "0:06:50",
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:50",
+    "end": "0:06:51",
+    "text": "I think some people talk about them.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:51",
+    "end": "0:06:52",
+    "text": "Some people use them.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:52",
+    "end": "0:06:52",
+    "text": "Some don't.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:06:52",
+    "end": "0:06:56",
+    "text": "But it was like that kind of star emoji.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:06:56",
+    "end": "0:07:01",
+    "text": "I guess like the how would you describe that kind of like the yeah, it's like the star to flash the announcement.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:07:01",
+    "end": "0:07:05",
+    "text": "I guess it's supposed to be like the spotlight or the camera picture like spotlight.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:07:05",
+    "end": "0:07:06",
+    "text": "Let's emoji.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:07:06",
+    "end": "0:07:12",
+    "text": "Yeah, I think that's a good way to say that was used in their data set over 17000 times.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:07:12",
+    "end": "0:07:18",
+    "text": "So, you know, it kind of goes to show you that they're not just trendy that they're actually effective and they're boosting open rates.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:07:18",
+    "end": "0:07:18",
+    "text": "Right.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:07:18",
+    "end": "0:07:24",
+    "text": "Like if people are using them that many times, at least we hope, you know, they're testing and that's why they're using it because it's working.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:07:24",
+    "end": "0:07:29",
+    "text": "But that specific emoji that we just described was done 17000 times.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:07:29",
+    "end": "0:07:30",
+    "text": "That's so interesting.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:07:30",
+    "end": "0:07:31",
+    "text": "Yeah, it's pretty interesting, man.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:07:31",
+    "end": "0:07:36",
+    "text": "And, you know, emojis have been around for a while and, you know, people have abused them for quite some time.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:07:36",
+    "end": "0:07:41",
+    "text": "But it is definitely a rise of, you know, usage that's happening.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:07:41",
+    "end": "0:07:42",
+    "text": "And I understand, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:07:42",
+    "end": "0:07:44",
+    "text": "Like it's no longer like taboo almost.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:07:44",
+    "end": "0:07:50",
+    "text": "Remember when emails and adding emojis maybe a couple years ago was considered a little bit more taboo.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:07:50",
+    "end": "0:07:56",
+    "text": "But because of social media and just the younger generation and the use of emojis, I think that it's becoming a lot more mainstream.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:07:56",
+    "end": "0:08:01",
+    "text": "And the bigger news is that I think the spam filters are finally just accepting that this is just part of life now.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:08:01",
+    "end": "0:08:02",
+    "text": "Yeah, that's awesome.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:08:02",
+    "end": "0:08:04",
+    "text": "So another fun takeaway.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:08:04",
+    "end": "0:08:07",
+    "text": "And when you're talking about fun stuff, there was a culture dominance.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:08:07",
+    "end": "0:08:12",
+    "text": "So I thought this was really fun, but Taylor Swift being mentioned by what is this?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:08:12",
+    "end": "0:08:18",
+    "text": "Forty two point five percent of emails that reference an artist was the artist that they reference was Taylor Swift.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:08:18",
+    "end": "0:08:22",
+    "text": "Talk about dominance outside of just the channel outside of email.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:08:22",
+    "end": "0:08:28",
+    "text": "It's a great reminder that tapping into like relevant pop culture is going to help brands resonate with their audience.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:08:28",
+    "end": "0:08:31",
+    "text": "That's crazy. So almost half the mentions of artists were her.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:08:31",
+    "end": "0:08:36",
+    "text": "And if you look at the data, which I don't think we have in front of us, like if the data for, you know,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:08:36",
+    "end": "0:08:41",
+    "text": "women's brands versus men's brands, like obviously some of the men's brands probably dropped that down.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:08:41",
+    "end": "0:08:46",
+    "text": "Like I would imagine that statistic for like a women's focused brand is probably like 70 or 80 percent.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:08:46",
+    "end": "0:08:52",
+    "text": "Some of the men's brands probably mentioned some other, I don't know, male stars, female stars, I don't know, whoever.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:08:52",
+    "end": "0:08:55",
+    "text": "But that's so crazy how big she was universally.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:08:55",
+    "end": "0:08:56",
+    "text": "Yeah, even an email man.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:08:56",
+    "end": "0:08:58",
+    "text": "That's that was really fun stat that they shared.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:08:58",
+    "end": "0:09:03",
+    "text": "In fact, another one that they shared that I thought was really cool was industry specific.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:09:03",
+    "end": "0:09:12",
+    "text": "So the biggest conversion rate drop increase was in auto and vehicles where they saw something go from points 0 7 percent to point 2 2 percent in conversion,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:09:12",
+    "end": "0:09:15",
+    "text": "which is a three time conversion.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:09:15",
+    "end": "0:09:21",
+    "text": "And it's ultimately a testament to how segmentation and relevant messaging is probably driving better results in niche market is.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:09:21",
+    "end": "0:09:26",
+    "text": "You know, when I think about like auto autos and vehicles, I don't think that they're probably the most sophisticated marketers, too.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:09:26",
+    "end": "0:09:28",
+    "text": "So imagine you get a great marketer in there.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:09:28",
+    "end": "0:09:33",
+    "text": "I imagine you could probably crush that industry average of the point 0 7 to the point 2 2.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:09:33",
+    "end": "0:09:39",
+    "text": "You could probably be closer to half a percent or one percent if you're doing it the right way with the correct segmentation that we really teach about.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:09:39",
+    "end": "0:09:45",
+    "text": "Yeah, that's that's kind of my guess with that data point, which is why I think it stood out is I think more and more and you're right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:09:45",
+    "end": "0:09:48",
+    "text": "Auto people just aren't usually sophisticated.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:09:48",
+    "end": "0:09:53",
+    "text": "And I'm pretty sure that they just found products where they can do more segmentation and basic data plays.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:09:53",
+    "end": "0:09:54",
+    "text": "Yeah, for sure.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:09:54",
+    "end": "0:10:00",
+    "text": "And with that kind of on the same vein, we also noticed from their data set that geography played a big role, too.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:10:00",
+    "end": "0:10:06",
+    "text": "And I think the UK led that with the open rates of just under 29 percent was twenty eight point eight nine percent.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:10:06",
+    "end": "0:10:14",
+    "text": "While other countries like Lithuania and Germany saw some of the highest conversion rates at point one four and point one ten percent respectively.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:10:14",
+    "end": "0:10:22",
+    "text": "So when you're localizing campaigns for those that sell into multiple countries, continents and regions, if you do them right,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:10:22",
+    "end": "0:10:28",
+    "text": "you're going to see an increased conversion because you don't want to treat someone in the US the same as someone in the UK, the same as someone in in Germany.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:10:28",
+    "end": "0:10:31",
+    "text": "Right. There's a lot of different nuances that play into that.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:10:31",
+    "end": "0:10:41",
+    "text": "And when you treat them kind of individual and treat them as kind of a personal being versus a kind of collective group, you're going to just increase all your metrics off the charts.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:10:41",
+    "end": "0:10:48",
+    "text": "You know, one thing that made me kind of think about when you were just saying that was you think GDPR had a role in that, you know, they do like the whole double opt in and confirmed opt in.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:10:48",
+    "end": "0:10:54",
+    "text": "So is it really a better customer which is ultimately translating to a better open rate and better conversion rate?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:10:54",
+    "end": "0:10:56",
+    "text": "Yeah, that could be part of it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:10:56",
+    "end": "0:10:59",
+    "text": "That's pretty interesting. Here's a really interesting one.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:10:59",
+    "end": "0:11:05",
+    "text": "You know, you and I play a lot in the Shopify space, but Omniscent, for example, has a lot of people in the WooCommerce merchant space.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:11:05",
+    "end": "0:11:14",
+    "text": "And they said that the WooCommerce merchants had the highest conversion rates at point twelve percent showing the platform optimization as a big impact in performance.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:11:14",
+    "end": "0:11:14",
+    "text": "What do you think about that?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:11:14",
+    "end": "0:11:17",
+    "text": "Yeah, that's interesting. I don't know enough about Woo.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:11:17",
+    "end": "0:11:19",
+    "text": "Obviously, I'm familiar with it. I've used it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:11:19",
+    "end": "0:11:20",
+    "text": "Yeah, I'm super curious.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:11:20",
+    "end": "0:11:29",
+    "text": "Like I imagine that the brands that are selling on Woo probably are larger brands that probably have maybe different type of customer than the Shopify customer.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:11:29",
+    "end": "0:11:31",
+    "text": "Although Shopify has everyone and anyone.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:11:31",
+    "end": "0:11:42",
+    "text": "So I don't know as like a previous kind of SaaS folk, like is the type of brand and type of customer therefore that's using a Woo site a lot different than a Shopify one?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:11:42",
+    "end": "0:11:42",
+    "text": "Is it a smaller data pool?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:11:42",
+    "end": "0:11:44",
+    "text": "Like why do you think that's the case?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:11:44",
+    "end": "0:11:46",
+    "text": "Special thanks to our sponsor Omniscent.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:11:46",
+    "end": "0:11:53",
+    "text": "They're an all-in-one email and SMS marketing automation platform built specifically for e-commerce brands like yourself.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:11:53",
+    "end": "0:12:01",
+    "text": "They make it super easy to engage your customers, drive repeat sales and create those seamless personalized experience that we talk about all the time on the podcast.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:12:01",
+    "end": "0:12:05",
+    "text": "And they have over one hundred and twenty five thousand e-commerce merchants around the world.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:12:05",
+    "end": "0:12:09",
+    "text": "And it's no surprise why they're best in class and they have an incredible track record.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:12:09",
+    "end": "0:12:17",
+    "text": "They actually have a four point eight stars out of five from over fifty eight hundred different companies and reviews on the App Store in terms of Shopify.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:12:17",
+    "end": "0:12:26",
+    "text": "Merchants love them for their powerful features, their intuitive design and their really easy ability to unify email and SMS strategies that are going to boost your conversions and engagement ultimately.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:12:26",
+    "end": "0:12:31",
+    "text": "So if you want to take your SMS and your email marketing to the next level, check out Omniscent.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:12:31",
+    "end": "0:12:35",
+    "text": "They've got the tools, the automation and the expertise to help your brand grow and thrive.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:12:35",
+    "end": "0:12:39",
+    "text": "Go over to Omniscent.com to learn more and let them know that we sent you.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:12:39",
+    "end": "0:12:43",
+    "text": "Well, the thing about Shopify is like it's easier to use, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:12:43",
+    "end": "0:12:45",
+    "text": "Like it's like easy out of the box.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:12:45",
+    "end": "0:12:49",
+    "text": "You can install it, use one of their base themes and get rocking and rolling with through commerce.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:12:49",
+    "end": "0:12:58",
+    "text": "It's giving you a lot of like customization, but you also have a lot of cost savings because you're not forced into a payment gateway that you have to use.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:12:58",
+    "end": "0:13:02",
+    "text": "Nor are you forced into these monthly subscriptions like WooCommerce is completely free.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:13:02",
+    "end": "0:13:05",
+    "text": "Right. So you can download a free you can customize it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:13:05",
+    "end": "0:13:10",
+    "text": "If you're a code centric and you know how to like develop you can develop anything you want into WooCommerce.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:13:10",
+    "end": "0:13:14",
+    "text": "Not saying you can't do that on Shopify, but Woo definitely has its edge when it comes down to it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:13:14",
+    "end": "0:13:15",
+    "text": "Interesting.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:13:15",
+    "end": "0:13:17",
+    "text": "God, so maybe the sites are different.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:17",
+    "end": "0:13:20",
+    "text": "The type of brands are using that are more sophisticated.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:20",
+    "end": "0:13:21",
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:21",
+    "end": "0:13:21",
+    "text": "Interesting.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:21",
+    "end": "0:13:22",
+    "text": "Maybe they're better marketers.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:22",
+    "end": "0:13:23",
+    "text": "Maybe they're not who knows.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:23",
+    "end": "0:13:24",
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:24",
+    "end": "0:13:25",
+    "text": "There's a lot that could go into that.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:25",
+    "end": "0:13:25",
+    "text": "Yeah.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:25",
+    "end": "0:13:26",
+    "text": "Interesting.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:26",
+    "end": "0:13:29",
+    "text": "So let's not talk about content, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:29",
+    "end": "0:13:34",
+    "text": "So across their data set, 99.97 percent.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:34",
+    "end": "0:13:45",
+    "text": "So close to 100, but not near 100 included some type of image, but only 2 percent of that included a video and only 2.8 percent of that used a GIF.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:13:45",
+    "end": "0:13:50",
+    "text": "So it's kind of surprising to see video being underutilized given its potential to engage audiences.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:13:50",
+    "end": "0:13:57",
+    "text": "So everything was more like I guess a static image versus like a kind of an animated GIF or potentially like some type of video.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:57",
+    "end": "0:13:58",
+    "text": "So that's kind of interesting.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:13:58",
+    "end": "0:14:00",
+    "text": "There that's really interesting.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:14:00",
+    "end": "0:14:04",
+    "text": "I think first of all, it's shocking almost 100 percent of people are using images.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:04",
+    "end": "0:14:08",
+    "text": "I remember again going back 10 years ago using imagery and email was like, whoa, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:08",
+    "end": "0:14:12",
+    "text": "And now like we're getting to a place, but I'm surprised about the GIF.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:12",
+    "end": "0:14:21",
+    "text": "I mean such an easy way to stand out and it really does improve both the email dynamic of like the experience, but also the click rates I've seen in the past.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:21",
+    "end": "0:14:22",
+    "text": "So, I don't know.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:22",
+    "end": "0:14:23",
+    "text": "That's really interesting for sure.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:23",
+    "end": "0:14:26",
+    "text": "And I don't know actually like when I'm thinking about the image, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:26",
+    "end": "0:14:28",
+    "text": "Like obviously people are sending plain text.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:28",
+    "end": "0:14:32",
+    "text": "I wonder if someone having a logo that was an image counted for that or not.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:32",
+    "end": "0:14:35",
+    "text": "I wonder if that maybe counted for it, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:35",
+    "end": "0:14:39",
+    "text": "Maybe they're assuming that anytime they use like a JPEG or like some type of image they counted for that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:39",
+    "end": "0:14:40",
+    "text": "So you're right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:40",
+    "end": "0:14:45",
+    "text": "Even a plain text people are using a little bit of a logo on the top left or whatever just to like make it formal looking.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:45",
+    "end": "0:14:47",
+    "text": "So it kind of makes sense.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:47",
+    "end": "0:14:53",
+    "text": "Yeah, and I guess like the point oh three percent of people which is like really really small must have just removed their logo or something.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:53",
+    "end": "0:14:54",
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:14:54",
+    "end": "0:14:57",
+    "text": "Because it almost seems like that was like a rounding error.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:57",
+    "end": "0:14:59",
+    "text": "Like people meant to have a logo or something.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:59",
+    "end": "0:14:59",
+    "text": "Okay.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:14:59",
+    "end": "0:15:00",
+    "text": "So that's interesting.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:15:00",
+    "end": "0:15:03",
+    "text": "Well, I mean based on the 30 billion emails to whatever.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:03",
+    "end": "0:15:04",
+    "text": "I mean, that's a lot of volume.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:04",
+    "end": "0:15:08",
+    "text": "So point three still a lot of emails that are plain text, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:08",
+    "end": "0:15:08",
+    "text": "All right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:08",
+    "end": "0:15:09",
+    "text": "True true.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:09",
+    "end": "0:15:15",
+    "text": "I want to shift to the next thing, you know, so I took all that data and I said there were three key learnings that we really learned about from that data point.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:15",
+    "end": "0:15:18",
+    "text": "And I think these were really interesting to jump into.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:15:18",
+    "end": "0:15:22",
+    "text": "So the first thing was email automations in general, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:15:22",
+    "end": "0:15:23",
+    "text": "Automations workflows.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:15:23",
+    "end": "0:15:24",
+    "text": "We all know that these are already important.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:15:24",
+    "end": "0:15:30",
+    "text": "But you know, some of the data points that they saw they saw a thirty nine point four percent open rate on there.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:15:30",
+    "end": "0:15:31",
+    "text": "So it's significantly higher.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:15:31",
+    "end": "0:15:47",
+    "text": "They saw one point seven two percent conversion rate against significantly higher and it was very clear that they outperformed email campaigns, you know, but the funny part about it was that automations only made up for two percent of the sense but drove thirty four percent of the total orders.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:15:47",
+    "end": "0:15:48",
+    "text": "What do you think about that dude?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:48",
+    "end": "0:15:49",
+    "text": "That's crazy.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:49",
+    "end": "0:15:52",
+    "text": "That that almost just feels so backwards.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:15:52",
+    "end": "0:16:00",
+    "text": "So obviously it makes sense given the fact that like this is almost like a surgeon doing like precise surgery versus just like this general checkup.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:16:00",
+    "end": "0:16:01",
+    "text": "That's wild though.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:01",
+    "end": "0:16:03",
+    "text": "And it's just like, all right, well go set up more automations.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:03",
+    "end": "0:16:05",
+    "text": "Go ahead send more emails in each automation.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:05",
+    "end": "0:16:07",
+    "text": "Like that to me is where my brain goes.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:07",
+    "end": "0:16:08",
+    "text": "Whereas like we talk about it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:08",
+    "end": "0:16:09",
+    "text": "I talk about a lot for campaigns.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:09",
+    "end": "0:16:11",
+    "text": "Just send more and you're going to make more.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:11",
+    "end": "0:16:12",
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:12",
+    "end": "0:16:13",
+    "text": "That's that's wild.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:13",
+    "end": "0:16:14",
+    "text": "That's pretty crazy.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:14",
+    "end": "0:16:15",
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:15",
+    "end": "0:16:18",
+    "text": "I mean, it's obvious that personalization is probably playing a role in this.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:16:18",
+    "end": "0:16:19",
+    "text": "Exactly.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:16:19",
+    "end": "0:16:29",
+    "text": "That is exactly the power of personalization and timing because for example, like trigger messages like a back in stock, which is one of my favorite those converted at over five percent.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:16:29",
+    "end": "0:16:38",
+    "text": "I think about like if you push back in stock notifications and get a bunch of people to opt in a you're going to probably build your list with some new people, you know, you're going to obviously have some old people as well.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:16:38",
+    "end": "0:16:45",
+    "text": "But like if you could use almost a back in stock one as like a conversion mechanism, like and you're going to over five percent, you're going to print money.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:45",
+    "end": "0:16:47",
+    "text": "And then the welcome and abandoned car email.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:47",
+    "end": "0:16:50",
+    "text": "So the welcome email converted about two point five percent.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:16:50",
+    "end": "0:16:57",
+    "text": "So about half of the back in stock and then the abandoned carts were at about two point five seven for the welcome two point oh six.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:16:57",
+    "end": "0:17:02",
+    "text": "So it's just interesting to see welcome emails converting higher than like abandoned carts.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:17:02",
+    "end": "0:17:05",
+    "text": "I guess it's just like the excitement when you first join.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:05",
+    "end": "0:17:07",
+    "text": "You're probably opting into some kind of welcome offer.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:07",
+    "end": "0:17:08",
+    "text": "I guess hot.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:08",
+    "end": "0:17:09",
+    "text": "It's fresh.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:09",
+    "end": "0:17:11",
+    "text": "There's a lot of intent.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:11",
+    "end": "0:17:17",
+    "text": "That's interesting to see that being higher than the abandonment where people are actually further down the funnel than just entering their email into a pop-up.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:17",
+    "end": "0:17:20",
+    "text": "Yeah, I think it's also about the efficiency ultimately.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:20",
+    "end": "0:17:20",
+    "text": "Right.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:20",
+    "end": "0:17:25",
+    "text": "Essentially, if you look at the data one in three people who clicked on our automated email made a purchase.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:25",
+    "end": "0:17:29",
+    "text": "That's like thirty three percent man click to conversion, which is absolutely phenomenal.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:29",
+    "end": "0:17:31",
+    "text": "Yeah, it's a numbers game rather more people on your list.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:31",
+    "end": "0:17:32",
+    "text": "The better it is.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:32",
+    "end": "0:17:39",
+    "text": "It's like dude, every time you're going to click if you're getting that on average, like it's easy to see why email such a profitable channel.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:39",
+    "end": "0:17:39",
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:39",
+    "end": "0:17:44",
+    "text": "And with that, right, like what we're talking about the data not just backs up having automations having the right ones, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:44",
+    "end": "0:17:45",
+    "text": "The back in stocks.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:45",
+    "end": "0:17:50",
+    "text": "I mentioned my favorite, you know, the abandoned cart welcome series are the top three performing ones, but don't just focus on those right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:17:50",
+    "end": "0:17:56",
+    "text": "Like those should be the primary ones you focus on but you need to have more you have more abandonments, etc.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:17:56",
+    "end": "0:18:01",
+    "text": "So really focus in 2025 on building out your automations saying that is really interesting.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:18:01",
+    "end": "0:18:04",
+    "text": "And I think you should repeat that which is back in stock.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:18:04",
+    "end": "0:18:08",
+    "text": "Welcome and abandoned carts were the three top performing automations.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:18:08",
+    "end": "0:18:13",
+    "text": "I mean, there's all these other automations that people think are so important, but the data doesn't lie man.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:18:13",
+    "end": "0:18:16",
+    "text": "And the data says those are the three that make the most sense.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:18:16",
+    "end": "0:18:18",
+    "text": "If you have scratch, you don't have anything start there.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:18:18",
+    "end": "0:18:31",
+    "text": "You have those right improve those those were I'd focus most of my time on a B testing optimization as well as adding additional emails as well as building obviously other abandonment flows other post purchase, etc.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:18:31",
+    "end": "0:18:32",
+    "text": "Yeah, no, absolutely.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:18:32",
+    "end": "0:18:33",
+    "text": "All right.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:18:33",
+    "end": "0:18:38",
+    "text": "So let's go to the second key learning for me when I was going through here and I was reading this.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:18:38",
+    "end": "0:18:40",
+    "text": "The second thing I had was SMS.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:18:40",
+    "end": "0:18:44",
+    "text": "Look, we all know SMS had a strong year more people are jumping and adopting into never.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:18:44",
+    "end": "0:18:48",
+    "text": "In fact, they said they had their total send volume was up 27 percent.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:18:48",
+    "end": "0:18:53",
+    "text": "But what stood out to me was the performance of automated SMS again going back to the automation size.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:18:53",
+    "end": "0:18:59",
+    "text": "But these SMS automations generated 18 percent of the total sales from just nine percent of the sense.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:18:59",
+    "end": "0:19:06",
+    "text": "So they sent 91 percent campaign nine percent and automation but somehow that little nine percent generated 18 percent of the sales.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:19:06",
+    "end": "0:19:07",
+    "text": "What do you think about that man?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:19:07",
+    "end": "0:19:08",
+    "text": "That's crazy.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:19:08",
+    "end": "0:19:10",
+    "text": "And I think that's actually a really interesting way to look at it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:19:10",
+    "end": "0:19:10",
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:19:10",
+    "end": "0:19:18",
+    "text": "So when you go back to the email, I guess it was 98 percent of the sense were campaigns and or two or automations.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:19:18",
+    "end": "0:19:22",
+    "text": "But wow, it's actually that's the tick is actually even crazier when you just do what you did.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:19:22",
+    "end": "0:19:28",
+    "text": "Right. Like 98 percent of campaigns were sent for emails, but two percent of the sense on automation drove a third of the revenue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:19:28",
+    "end": "0:19:29",
+    "text": "That's crazy.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:19:29",
+    "end": "0:19:30",
+    "text": "Power the workflow man.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:19:30",
+    "end": "0:19:31",
+    "text": "How important these things are.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:19:31",
+    "end": "0:19:33",
+    "text": "And really, I mean, I continue.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:19:33",
+    "end": "0:19:37",
+    "text": "I mean, we you and I we beat this until you know, we'll talk about this a lot over the years.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:19:37",
+    "end": "0:19:42",
+    "text": "But like personalization being in the moment at a time being at the right place at the right time.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:19:42",
+    "end": "0:19:45",
+    "text": "That's clearly what you're doing with these automations for sure.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:19:45",
+    "end": "0:19:56",
+    "text": "And with that, like the other interesting thing too, was like with the automated SMS, they had a 12.4 percent click to cent ratio compared to a 5.1 for campaigns.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:19:56",
+    "end": "0:20:00",
+    "text": "So that's like two and a half times give or take.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:20:00",
+    "end": "0:20:04",
+    "text": "Right. So the conversion rate was more than double that of campaigns.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:04",
+    "end": "0:20:06",
+    "text": "Right. Like it's just crazy.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:06",
+    "end": "0:20:07",
+    "text": "It's like set up the automation.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:07",
+    "end": "0:20:09",
+    "text": "I feel like people get confused by automations.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:09",
+    "end": "0:20:10",
+    "text": "They said them and they forget him.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:10",
+    "end": "0:20:17",
+    "text": "It's like the data here is showing that these need to be a top of mind primary focus because like it's just great.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:20:17",
+    "end": "0:20:22",
+    "text": "And with that, right, like kind of on the SMS side, it's not just an acquisition tool, right.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:20:22",
+    "end": "0:20:27",
+    "text": "But it really is a great retention tool when used properly and strategically.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:20:27",
+    "end": "0:20:29",
+    "text": "Yeah, it's a now and moment tool.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:20:29",
+    "end": "0:20:30",
+    "text": "I mean, that's what I keep saying.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:20:30",
+    "end": "0:20:32",
+    "text": "Like it's like the sale has started.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:20:32",
+    "end": "0:20:33",
+    "text": "The sale has ended.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:20:33",
+    "end": "0:20:35",
+    "text": "Your abandoned cart has occurred.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:35",
+    "end": "0:20:39",
+    "text": "I mean, these are all things that people care about and where SMS gets relevant.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:39",
+    "end": "0:20:46",
+    "text": "I think where people fail at with SMS pretty often is they're just sending these mass blasts that are kind of like a duplicate to what they're already sending for their email.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:46",
+    "end": "0:20:49",
+    "text": "And they're not really using it strategically.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:49",
+    "end": "0:20:52",
+    "text": "And, you know, I think one of our predictions will be talking about that a little bit more.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:20:52",
+    "end": "0:21:03",
+    "text": "But I think people are going to start realizing that SMS costs too much to just spend money on the wrong things, but really get focused and drilled down on using SMS to clear in right way when you're thinking about it.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:21:03",
+    "end": "0:21:04",
+    "text": "All right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:04",
+    "end": "0:21:07",
+    "text": "Let's jump into the last one that I thought was really interesting.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:07",
+    "end": "0:21:12",
+    "text": "And I know we've been talking about this a lot and we'll talk about it more next week with our special guests that we have coming on.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:12",
+    "end": "0:21:14",
+    "text": "But push notifications, man.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:14",
+    "end": "0:21:20",
+    "text": "You know, I was looking at this data and again, I know we don't have enough background and push notifications.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:20",
+    "end": "0:21:22",
+    "text": "But here was the data they shared.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:22",
+    "end": "0:21:25",
+    "text": "They said total sends a push was up fifty point three percent.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:25",
+    "end": "0:21:26",
+    "text": "That's huge, right.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:26",
+    "end": "0:21:37",
+    "text": "But while the automated pushed doubled by almost 100 percent, the campaigns had a point three percent conversion rates and automated push ones had point 18.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:37",
+    "end": "0:21:42",
+    "text": "So this one actually flipped where the automated ones did poorly less.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:42",
+    "end": "0:21:43",
+    "text": "Wait, it did better. I'm sorry.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:43",
+    "end": "0:21:45",
+    "text": "So they had a point oh three percent with campaigns.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:45",
+    "end": "0:21:46",
+    "text": "So that's like the blast.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:46",
+    "end": "0:21:51",
+    "text": "But the automated ones, which mean like things were happening at a point one eight percent.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:21:51",
+    "end": "0:21:55",
+    "text": "So we actually saw about six times increase for a campaign versus automation again.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:55",
+    "end": "0:21:56",
+    "text": "What's up, guys?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:56",
+    "end": "0:21:58",
+    "text": "I'm excited to talk to you about our sponsor app.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:58",
+    "end": "0:21:59",
+    "text": "Brew app.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:21:59",
+    "end": "0:22:05",
+    "text": "Brew is for brands that are scaling a great way to add loyalty and retention is to launch a mobile app for your store and app.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:22:05",
+    "end": "0:22:09",
+    "text": "Brew can help you drive conversions and growth with performance driven mobile apps with app.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:22:09",
+    "end": "0:22:12",
+    "text": "Brew. You don't need to worry about the lengthy development times or coding headaches.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:22:12",
+    "end": "0:22:16",
+    "text": "They make it really easy to create an app that connects to your customers and drive sales.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:22:16",
+    "end": "0:22:26",
+    "text": "In fact, they're trusted by some of the fastest growing e-commerce brands with focus on delivering fast responsive and beautiful apps that enhance customer engagement and retention.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:22:26",
+    "end": "0:22:27",
+    "text": "Please go check them out at app.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:22:27",
+    "end": "0:22:37",
+    "text": "Brew.com and let them know that Jimmy sent you to do like when we look at the all email SMS and push all of those had the same data campaigns are obviously important.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:22:37",
+    "end": "0:22:39",
+    "text": "They're they're necessary.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:22:39",
+    "end": "0:22:45",
+    "text": "But automation is really tuck the cake in terms of conversions even for less sense across the board.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:22:45",
+    "end": "0:22:46",
+    "text": "Okay, that's impressive.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:22:46",
+    "end": "0:22:49",
+    "text": "Yeah, dude, that that actually just told us a lot, man.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:22:49",
+    "end": "0:22:53",
+    "text": "If you take that across so many emails, I don't care what platform this data is coming from.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:22:54",
+    "end": "0:22:59",
+    "text": "It's such a broad amount of emails like we know that this is the least pointing towards the right trend and a trend.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:22:59",
+    "end": "0:23:01",
+    "text": "Yeah, to your point is very simple.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:23:01",
+    "end": "0:23:14",
+    "text": "Automations play a huge role and honestly that comes down to drilling down to that one thing personalization ultimately where it's taking people at the right time at the right moment and sending them the right email definitely drives and end conversion result.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:23:14",
+    "end": "0:23:15",
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:23:15",
+    "end": "0:23:26",
+    "text": "When you look at people on social media talking about email a lot of times they talk about campaigns and reference campaigns and automations are less talked about and probably that's why less people are doing them and less people are setting them up.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:23:26",
+    "end": "0:23:27",
+    "text": "But it's so important.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:23:27",
+    "end": "0:23:30",
+    "text": "So dude, that's a that's actually a really good point.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:23:30",
+    "end": "0:23:31",
+    "text": "You're right.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:23:31",
+    "end": "0:23:34",
+    "text": "Like most people including myself.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:23:34",
+    "end": "0:23:39",
+    "text": "We talk about campaigns, you know, agencies are talking about their latest and campaigns and greatest designs and things they did.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:23:39",
+    "end": "0:23:44",
+    "text": "But the reality according to this data is we should be spending that time and energy and automations.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:23:45",
+    "end": "0:23:47",
+    "text": "Yes, the whole like I think campaigns are just sexy, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:23:47",
+    "end": "0:23:54",
+    "text": "They got to come up with the latest and greatest things and they're more timely and they're more this and there's just a million one things you can send for campaigns.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:23:54",
+    "end": "0:23:56",
+    "text": "Whereas with automation, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:23:56",
+    "end": "0:24:02",
+    "text": "There's probably like a dozen core automations that like are really sticky and the ones that you should be focusing on.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:24:02",
+    "end": "0:24:04",
+    "text": "So it's just a smaller playing field,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:04",
+    "end": "0:24:09",
+    "text": "but also makes it way easier just to be dialed in because you don't need to do that much.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:09",
+    "end": "0:24:15",
+    "text": "You just got to do the core dozen or so and you're going to be taking right and raking in the dough.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:15",
+    "end": "0:24:23",
+    "text": "Yeah, dude, Chase, you know, one of the things that I always talk about and I always notice with brands is a lot of people will set up their automations, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:24:23",
+    "end": "0:24:32",
+    "text": "No, go off and like create their account, set up their brand and set up their automations and then they focus purely on campaigns because they're sexy and they're fun and they do all that stuff.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:24:33",
+    "end": "0:24:44",
+    "text": "What we're seeing right now is if you're not spending at least at least a day or two every month reviewing your automation, checking them, optimizing them, testing them, dude, I think you're leaving a lot of money on the table.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:44",
+    "end": "0:24:45",
+    "text": "What do you think facts, dude?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:45",
+    "end": "0:24:46",
+    "text": "Do it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:46",
+    "end": "0:24:48",
+    "text": "That was just part one of this video.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:48",
+    "end": "0:24:49",
+    "text": "Where can people find all that data?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:49",
+    "end": "0:24:52",
+    "text": "I I know we had in front of us.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:52",
+    "end": "0:24:52",
+    "text": "We've had a lot of numbers.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:52",
+    "end": "0:24:54",
+    "text": "How can people actually get access to that?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:24:54",
+    "end": "0:24:55",
+    "text": "So a couple ways, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:24:55",
+    "end": "0:25:01",
+    "text": "So towards the end of January OmniSend will be publishing it on their website so you can download it from them.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:25:01",
+    "end": "0:25:03",
+    "text": "We'll also include a link on our newsletter.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:25:03",
+    "end": "0:25:17",
+    "text": "So if you are not sign up to our newsletter and you want cool things and tips and tricks and like this or information our newsletter ecomemailmarketer.com will publish that link as soon as it's ready so you can grab the full report that there's so much on that data from emoji breakdowns.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:17",
+    "end": "0:25:19",
+    "text": "The words that they've used.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:19",
+    "end": "0:25:22",
+    "text": "There's so much we just touched on like the things that we thought were interesting.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:22",
+    "end": "0:25:23",
+    "text": "Love that.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:23",
+    "end": "0:25:24",
+    "text": "All right, should we move to our predictions?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:24",
+    "end": "0:25:25",
+    "text": "You want to start us off?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:25",
+    "end": "0:25:30",
+    "text": "Yeah, dude, let's talk about the Jimmy and Chase's top 10 predictions for 2025.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:30",
+    "end": "0:25:38",
+    "text": "I know everyone's doing a prediction thing, but I think we should talk about retention predictions because a we talk about that a lot and be this is what we know how to talk about.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:38",
+    "end": "0:25:40",
+    "text": "So I'll start with the first one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:25:40",
+    "end": "0:25:42",
+    "text": "We'll just kind of go back and forth with some of the ones that we have.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:25:42",
+    "end": "0:25:50",
+    "text": "So prediction number one that we had was AI will transform retention marketing and talking about AI will take personalization to the next level.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:25:50",
+    "end": "0:25:55",
+    "text": "We're talking about hyper personalized campaigns to individual behaviors and preferences.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:55",
+    "end": "0:25:58",
+    "text": "Yeah, I mean to no surprise for me.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:25:58",
+    "end": "0:26:00",
+    "text": "I totally agree with that.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:26:00",
+    "end": "0:26:03",
+    "text": "And I do want to preface saying like I don't think this is reserved for just big brands.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:26:03",
+    "end": "0:26:11",
+    "text": "I think AI tools are going to really level the playing field to make kind of the technology and the capabilities accessible to bigger small.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:26:11",
+    "end": "0:26:17",
+    "text": "So I think small medium companies to should lean into this because they're going to have less headcount.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:26:17",
+    "end": "0:26:18",
+    "text": "They're going to have less resources.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:26:18",
+    "end": "0:26:22",
+    "text": "So leverage the technology to do more with less, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:26:22",
+    "end": "0:26:22",
+    "text": "It's pretty simple.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:26:22",
+    "end": "0:26:24",
+    "text": "Well, you know what, Chase?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:26:24",
+    "end": "0:26:30",
+    "text": "One of the things that's fun and I just kind of going off like what we're talking about here, but you know, I'm talking to a couple AI companies.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:26:30",
+    "end": "0:26:35",
+    "text": "That are working with us together and one of our businesses here and they're doing some really cool stuff.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:26:35",
+    "end": "0:26:42",
+    "text": "Like it's like little silos of pieces of AI automation that is going to essentially make it easier for people.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:26:42",
+    "end": "0:26:46",
+    "text": "And I think this goes to your prediction number two what they're going to help optimize.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:26:46",
+    "end": "0:26:50",
+    "text": "Yeah, and with that I kind of was just preface saying it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:26:50",
+    "end": "0:26:58",
+    "text": "But I think prediction two is that AI is going to allow in automation in general is going to allow lean teams to do more with less, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:26:58",
+    "end": "0:27:06",
+    "text": "So I think with the way that the world's been the economy, you know, a whole bunch of types of things that people wanted to go out on their own.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:27:06",
+    "end": "0:27:09",
+    "text": "I think it's going to push people to have to do more with less, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:27:09",
+    "end": "0:27:19",
+    "text": "Brands are going to rely on AI on technology on automation to ultimately bridge the gap and keep things lean and mean to be highly efficient and highly profitable.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:27:19",
+    "end": "0:27:24",
+    "text": "I think a lot more people are going to focus on profitability and they're really the only way to do that.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:27:24",
+    "end": "0:27:28",
+    "text": "It's a leverage automation and technology to be kind of an offset.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:27:28",
+    "end": "0:27:30",
+    "text": "Yeah, but let's not forget about the roles of agencies.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:27:30",
+    "end": "0:27:33",
+    "text": "I think the agencies will shift a little bit.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:27:33",
+    "end": "0:27:40",
+    "text": "I mean, you'll still have to outsource specific tasks to help brand scale, but it's going to let the internal teams focus on strategy more.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:27:40",
+    "end": "0:27:43",
+    "text": "I think that's the key to all of this when I think about it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:27:43",
+    "end": "0:27:48",
+    "text": "All right prediction number three the SMS to RCS evolution.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:27:48",
+    "end": "0:27:52",
+    "text": "So you we've talked about RCS, which is rich communication services,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:27:52",
+    "end": "0:27:59",
+    "text": "which is going to allow you to take the old school like SMS and start adding things like interactive elements clickable buttons,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:27:59",
+    "end": "0:28:05",
+    "text": "embeddable videos, and ultimately you can also track and open and a click much better with him.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:28:05",
+    "end": "0:28:06",
+    "text": "Any thoughts around that?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:28:06",
+    "end": "0:28:06",
+    "text": "That's cool.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:28:06",
+    "end": "0:28:07",
+    "text": "I'm excited about that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:28:07",
+    "end": "0:28:14",
+    "text": "I was really excited when email first was going to get some of the kind of that technology as well, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:28:14",
+    "end": "0:28:19",
+    "text": "A lot less people I feel like I've taken advantage of like AMP, which is what it's called for like the email.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:28:19",
+    "end": "0:28:20",
+    "text": "But I think that's going to be cool, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:28:20",
+    "end": "0:28:25",
+    "text": "That's going to help SMS feel more like an app or like a website.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:28:25",
+    "end": "0:28:26",
+    "text": "So it'll be more engaging.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:28:26",
+    "end": "0:28:27",
+    "text": "It's going to be more dynamic.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:28:27",
+    "end": "0:28:35",
+    "text": "And I really do believe that that's going to help increase conversion rates when people have that more personalized kind of engaging experience.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:28:35",
+    "end": "0:28:38",
+    "text": "I think that's going to lead to higher and better results.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:28:38",
+    "end": "0:28:39",
+    "text": "Hundred percent, dude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:28:39",
+    "end": "0:28:46",
+    "text": "And then I'd say the next one that we were talking about what number four is zero party data collection.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:28:46",
+    "end": "0:28:51",
+    "text": "So with this, right, like I think whether it's at a state level, whether it's at the Fed level,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:28:51",
+    "end": "0:28:56",
+    "text": "whether it's at a country or international level, privacy is tightening.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:28:56",
+    "end": "0:28:59",
+    "text": "Even right, you see Apple's being more privacy focused.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:28:59",
+    "end": "0:29:04",
+    "text": "Everyone's going towards a more private world with everything that's happening online.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:29:04",
+    "end": "0:29:15",
+    "text": "So I think brands need to focus on acquiring and leveraging and kind of extracting as much data as possible that customers are willing to share.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:29:15",
+    "end": "0:29:18",
+    "text": "Things like preferences and interests is through tools like quizzes,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:29:18",
+    "end": "0:29:22",
+    "text": "surveys, and even things like what people are clicking on within an email,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:29:22",
+    "end": "0:29:27",
+    "text": "what people are clicking on within a text, what people are viewing and doing on site,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:29:27",
+    "end": "0:29:36",
+    "text": "really aggregating that data in a way that is really accessible in a way that you can use to personalize and really enrich is going to be super important.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:29:36",
+    "end": "0:29:38",
+    "text": "Well, that ultimately leads to personalization, Chase.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:29:38",
+    "end": "0:29:44",
+    "text": "I mean, that approach not only builds trust, but it also creates that foundation for an effective campaign.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:29:44",
+    "end": "0:29:50",
+    "text": "The more information you have on user, the better you can target, the better you can speak to them, the better you can utilize it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:29:50",
+    "end": "0:29:58",
+    "text": "And if we go back to prediction number one with AI, AI is going to allow you to send more and multiple emails and different emails that are a little bit more targeted.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:29:58",
+    "end": "0:30:06",
+    "text": "And the more information you can utilize against them, not against it with them, I guess is a better answer, is really one of the most powerful ways.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:30:06",
+    "end": "0:30:10",
+    "text": "All right. Prediction number five that we put down was unified email and SMS channels.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:30:10",
+    "end": "0:30:12",
+    "text": "And look, I've been beating this drum.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:30:12",
+    "end": "0:30:14",
+    "text": "I believe in this whole hardly as a marketer.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:30:14",
+    "end": "0:30:20",
+    "text": "And the reality is to me is that customers are really expecting this seamless experience these days across the channels.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:30:20",
+    "end": "0:30:27",
+    "text": "They know that if I'm giving you an email address and I'm giving you an SMS address, I don't give you both of these to treat me like two separate channels.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:30:27",
+    "end": "0:30:36",
+    "text": "And so to me, I think this is the year I hope I really hope this is the year that brands start to understand how to unify those channels to see better engagement and retention.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:30:36",
+    "end": "0:30:40",
+    "text": "Yeah, dude. And I we did a podcast with a guest that's going to come out after this one comes out.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:30:40",
+    "end": "0:30:44",
+    "text": "But he was talking about, I mean, how much revenue did they do?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:30:44",
+    "end": "0:30:45",
+    "text": "Was it 100 million? Was it a billion?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:30:45",
+    "end": "0:30:47",
+    "text": "Billion. Yeah, it's a billion dollars.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:30:47",
+    "end": "0:30:49",
+    "text": "They do a billion dollars a year in revenue.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:30:49",
+    "end": "0:30:55",
+    "text": "They use a bunch of different apps for push email SMS, this, that and the other.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:30:55",
+    "end": "0:31:00",
+    "text": "And they were saying that their biggest pain point was the fact that like there was no unification.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:31:00",
+    "end": "0:31:08",
+    "text": "They don't know whether a customer is getting a push or a text or an email at the same time or when they're getting or the frequency of the volume because they just don't have it unified.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:31:08",
+    "end": "0:31:17",
+    "text": "And that was their biggest pain point going to 2025 was this unification because if you do want to deliver the right message on the right channel, the right time, you have to know what's going on.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:31:17",
+    "end": "0:31:31",
+    "text": "And, you know, what's going on, you have to have that data there and platforms are going to need strong integrations with other apps with other services to be able to aggregate this or someone's just going to come out and have to just build it and they're going to win.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:31:31",
+    "end": "0:31:34",
+    "text": "Yeah, absolutely. 100% agree.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:31:34",
+    "end": "0:31:38",
+    "text": "So cool. So prediction number six that we were talking about is the rise of deliverability skills.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:31:38",
+    "end": "0:31:44",
+    "text": "Again, we're always surprised that this hasn't been something in the conversation for longer than it has been.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:31:44",
+    "end": "0:31:50",
+    "text": "This is something that has been more of a recent thing just with all the changes from ESPs and ISPs and whatnot.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:31:50",
+    "end": "0:31:58",
+    "text": "But deliverability is going to be one of the most important skills for marketers to learn, understand and improve upon.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:31:58",
+    "end": "0:32:02",
+    "text": "It's not just about strategy and sending campaigns and writing copy.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:32:02",
+    "end": "0:32:06",
+    "text": "It's about making sure that all the work that you're doing is for good use.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:32:06",
+    "end": "0:32:08",
+    "text": "It's because they're getting routed to the right inbox.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:32:08",
+    "end": "0:32:11",
+    "text": "You know, the primary, the promotions, not the spam.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:32:11",
+    "end": "0:32:18",
+    "text": "Right. And with that, right, like I think a lot of people think that the role of deliverability is on the ESP, but it's not.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:32:18",
+    "end": "0:32:31",
+    "text": "The role is on you as the brand to make sure that you're following best practices, managing your list effectively, writing good content, having the right cadence of kind of design and copy, not just sending single image emails.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:32:31",
+    "end": "0:32:37",
+    "text": "Like all of those are your job as a marketer and you can't pass off the blame or the hope to someone else.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:32:37",
+    "end": "0:32:39",
+    "text": "That's on you, dude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:32:39",
+    "end": "0:33:00",
+    "text": "You know, I've been beating the drum about deliverability for a while now, and I really think that it's really important that this is going to become a real marketer skill and being able to understand things like delivery metrics, identifying issues and adjusting strategies are going to be essential for retention marketers and brands that and brands and marketers who mastered this skill will have a competitive edge.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:33:00",
+    "end": "0:33:07",
+    "text": "In fact, I know we're working on this certification program that we're going to release here in sometime in January, and we haven't really talked about it a lot.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:33:07",
+    "end": "0:33:13",
+    "text": "But one of the areas that I spent probably about an hour, hour and a half recording recently was all about deliverability.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:33:13",
+    "end": "0:33:16",
+    "text": "And as I was talking about it to me, it's like the back of my hand.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:33:16",
+    "end": "0:33:18",
+    "text": "Like, I know this world so well because of it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:33:18",
+    "end": "0:33:23",
+    "text": "But as I kind of went back through it, I was like, man, I bet you a lot of people don't know a lot about this stuff.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:33:23",
+    "end": "0:33:26",
+    "text": "I mean, that's really what you're starting to realize into this market.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:33:26",
+    "end": "0:33:31",
+    "text": "And this is just not something that people have thought has been important to them, but it's becoming bigger and bigger.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:33:31",
+    "end": "0:33:35",
+    "text": "And the problem that's really is there's nobody who really understands it enough.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:33:35",
+    "end": "0:33:39",
+    "text": "So they always go, well, what's my deliverability like or whatever it might be?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:33:39",
+    "end": "0:33:49",
+    "text": "And I think this becomes a skill because there's probably going to be more and more deliverability agencies who their own core focus is helping you solve deliverability problems because it's going to become a bigger challenge this year.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:33:49",
+    "end": "0:33:52",
+    "text": "Yeah, I love that. It's going to be a great productized service for people to do.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:33:52",
+    "end": "0:33:56",
+    "text": "But hopefully you own it in your own agency, own it in the house.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:33:56",
+    "end": "0:33:59",
+    "text": "So that way you don't have to pay someone else for something that frankly you should be doing.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:33:59",
+    "end": "0:34:01",
+    "text": "So you should be learning from us.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:34:01",
+    "end": "0:34:04",
+    "text": "Yeah. And if you're a marketer, you should be using it as a level up.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:04",
+    "end": "0:34:06",
+    "text": "Right. It's no longer as we've learned now today.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:06",
+    "end": "0:34:09",
+    "text": "So far, automations are more important than you've ever thought about.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:09",
+    "end": "0:34:11",
+    "text": "That's very key that people don't think about.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:11",
+    "end": "0:34:12",
+    "text": "Everyone focused on campaign.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:12",
+    "end": "0:34:20",
+    "text": "And now we're talking about deliverability being something you've got the unification side of things being that less channel and creating a better cohesive experience.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:34:21",
+    "end": "0:34:23",
+    "text": "We've got AI coming in prediction number seven.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:34:23",
+    "end": "0:34:31",
+    "text": "I thought this one was really interesting that when we're talking about our 10 predictions and how we came up with them, micro messaging will dominate.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:34:31",
+    "end": "0:34:34",
+    "text": "I'm talking about this attention spans are starting to shrink.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:34:34",
+    "end": "0:34:35",
+    "text": "You're getting more and more emails.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:35",
+    "end": "0:34:39",
+    "text": "I remember 2018 people would say you get 135 emails in your inbox.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:39",
+    "end": "0:34:47",
+    "text": "I'm pretty sure that number is up to like 245 hundred now at this point because you know, there was an inbox I forgot to open a while ago and I opened it recently.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:47",
+    "end": "0:34:51",
+    "text": "Dude, I've got like thousands and thousands of emails in there and I don't even know what to do there.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:34:51",
+    "end": "0:34:59",
+    "text": "So when I started thinking about what is a prediction, I think that retention campaigns will focus on short impactful content designed to drive quick action.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:34:59",
+    "end": "0:35:02",
+    "text": "No longer five, six, seven pages of these emails.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:35:02",
+    "end": "0:35:08",
+    "text": "But these one single focus emails really focused on a quick action that you think about.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:35:08",
+    "end": "0:35:08",
+    "text": "What do you think about that one?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:35:08",
+    "end": "0:35:10",
+    "text": "Yeah, I think I think I agree.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:35:10",
+    "end": "0:35:14",
+    "text": "I'd say I think that the messaging is going to be I think you're getting more messages.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:35:14",
+    "end": "0:35:19",
+    "text": "But I think the messages overall are going to be shorter, more conversational, you know, more engaging.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:35:19",
+    "end": "0:35:22",
+    "text": "So the copyrighting is going to be better and more conversational.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:35:22",
+    "end": "0:35:25",
+    "text": "I think people incorporate more memes and gifts.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:35:25",
+    "end": "0:35:27",
+    "text": "I think the call to actions are going to have to be quicker.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:35:27",
+    "end": "0:35:34",
+    "text": "So I think that like when we think about like tick tock, I think that is where the world is going with this communication, the brevity and the engagement style.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:35:34",
+    "end": "0:35:42",
+    "text": "So I think that people are going to be able to send more messages if they do this versus sending fewer long form newsletters that are just so long that like",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:35:42",
+    "end": "0:35:46",
+    "text": "maybe a small percentage of people are ever going to see or engage with.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:35:46",
+    "end": "0:35:49",
+    "text": "So I think more but better messages is coming.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:35:49",
+    "end": "0:35:53",
+    "text": "Yeah. And you know, you talk about this a lot online on social about copywriting.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:35:53",
+    "end": "0:35:56",
+    "text": "I think the rise the copywriting is happening more and more.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:35:56",
+    "end": "0:35:59",
+    "text": "I know you've been beating that drum for years now how important it is.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:35:59",
+    "end": "0:36:08",
+    "text": "But just like we dedicated an entire module in our certification program about this copywriting and words that sell are going to be more important.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:36:08",
+    "end": "0:36:10",
+    "text": "And it's going to be another skill that people need to learn.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:36:10",
+    "end": "0:36:13",
+    "text": "You can no longer just be a pretty image designer anymore.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:36:13",
+    "end": "0:36:15",
+    "text": "You've got to use copy and words to sell.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:36:15",
+    "end": "0:36:16",
+    "text": "Yeah, 100 percent.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:36:16",
+    "end": "0:36:25",
+    "text": "And I'd say like one that you and I both deeply believe in and one that we've been doing a long time individually and one that we're coming together on right now is the eight.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:36:25",
+    "end": "0:36:28",
+    "text": "I guess this is our eighth one. Our increased emphasis on community building.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:36:28",
+    "end": "0:36:37",
+    "text": "Right. You know, we're actually spoil are going to be dropping a community for retention marketers, you know, in the coming weeks or I guess month or two.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:36:37",
+    "end": "0:36:38",
+    "text": "It's going to be amazing.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:36:38",
+    "end": "0:36:54",
+    "text": "There's no, in my opinion, good or real communities for folks like ourselves that want to learn retention marketing from the best that want to have access to other folks that want to be able to share ideas, want to get feedback on their campaign data, want to get feedback on what kind of flows they should be building.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:36:54",
+    "end": "0:36:56",
+    "text": "That is all coming.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:36:56",
+    "end": "0:37:01",
+    "text": "And with that, right, like consumers, marketers, you name it, we're all craving connection.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:37:01",
+    "end": "0:37:02",
+    "text": "Like, dude, I don't leave my house.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:37:02",
+    "end": "0:37:04",
+    "text": "I work from home.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:37:04",
+    "end": "0:37:05",
+    "text": "We all work from home.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:37:05",
+    "end": "0:37:05",
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:37:05",
+    "end": "0:37:16",
+    "text": "Obviously engage my family and some friends, but like the thought of being able to engage with other like minded folks without having to leave my house or if I do leave my house, finding other people that I know and like and trust in the community.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:37:16",
+    "end": "0:37:17",
+    "text": "That's so important, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:37:17",
+    "end": "0:37:23",
+    "text": "That sense of belonging and that sense of purpose and that sense of just trust is everything.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:37:23",
+    "end": "0:37:23",
+    "text": "Right.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:37:23",
+    "end": "0:37:33",
+    "text": "So I think for brands, for marketers, et cetera, building these kind of community driven strategies to create those emotional ties to go above and beyond just products.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:37:33",
+    "end": "0:37:34",
+    "text": "That's what makes it sticky.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:37:34",
+    "end": "0:37:34",
+    "text": "Right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:37:34",
+    "end": "0:37:46",
+    "text": "If people are buying products from you and they're in this community, right, like they're buying the products by the end of the day, they're buying like this this membership in a sense to the community that's going to allow them to keep buying the products to have that shared experience.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:37:46",
+    "end": "0:37:48",
+    "text": "So I think that's going to be a big one.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:37:48",
+    "end": "0:37:58",
+    "text": "No, I mean, look creating a space where customers feel value and engagement through, you know, other people through like loyalty programs, access social media.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:37:58",
+    "end": "0:38:08",
+    "text": "Like this is where the world is going, especially as you go into the younger generations where they foster community is such a big part of what they're doing in their everyday life.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:38:08",
+    "end": "0:38:09",
+    "text": "You're absolutely right, Chase.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:09",
+    "end": "0:38:11",
+    "text": "I mean, dude, this phone, this cell phone, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:11",
+    "end": "0:38:13",
+    "text": "That's like this is our community.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:13",
+    "end": "0:38:16",
+    "text": "You just have to find where those people live and you want to interact with them.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:38:16",
+    "end": "0:38:26",
+    "text": "And as you kind of mentioned about our kind of retention community that we're building, you know, most these private communities in the markets are for like founders and entrepreneurs.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:38:26",
+    "end": "0:38:26",
+    "text": "And we love them all.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:38:26",
+    "end": "0:38:28",
+    "text": "We're founders and entrepreneurs too.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:38:28",
+    "end": "0:38:30",
+    "text": "But the reality is, dude, where did the marketers go?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:38:30",
+    "end": "0:38:36",
+    "text": "Where did people really want to talk about their core and how to build their passion and retention and how to do better?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:38:36",
+    "end": "0:38:37",
+    "text": "They don't have a place to go.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:37",
+    "end": "0:38:40",
+    "text": "And that's why I'm excited to build that community with you, dude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:40",
+    "end": "0:38:40",
+    "text": "Heck yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:40",
+    "end": "0:38:41",
+    "text": "We're going to crush it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:41",
+    "end": "0:38:41",
+    "text": "Yeah.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:41",
+    "end": "0:38:42",
+    "text": "All right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:42",
+    "end": "0:38:46",
+    "text": "Prediction number nine post purchase experiences will be key.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:46",
+    "end": "0:38:47",
+    "text": "All right.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:47",
+    "end": "0:38:49",
+    "text": "Retention starts after a purchase.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:49",
+    "end": "0:38:51",
+    "text": "I think this is so key here, Chase.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:51",
+    "end": "0:38:53",
+    "text": "I'm going to say that one more time because people listen.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:38:54",
+    "end": "0:38:57",
+    "text": "Retention starts immediately after the purchase.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:38:57",
+    "end": "0:38:58",
+    "text": "Why do I say that?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:38:58",
+    "end": "0:39:02",
+    "text": "First of all, if you think your pop-up is retention marketing, it's not.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:39:02",
+    "end": "0:39:06",
+    "text": "When your pop-up occurs, you are supporting acquisition.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:39:06",
+    "end": "0:39:11",
+    "text": "But once that person has made the purchase, then your time is to shine now.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:39:11",
+    "end": "0:39:17",
+    "text": "And brands just start prioritizing proactive follow-ups, educational content, personalized upsell offers.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:17",
+    "end": "0:39:19",
+    "text": "We'll see better repeat rates than ever.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:19",
+    "end": "0:39:21",
+    "text": "That was the hot take on prediction number nine.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:21",
+    "end": "0:39:22",
+    "text": "What do you think about that?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:22",
+    "end": "0:39:23",
+    "text": "Yeah, dude, I agree.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:23",
+    "end": "0:39:26",
+    "text": "I think so few people spend enough time nurturing post purchase.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:26",
+    "end": "0:39:28",
+    "text": "It's so important, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:28",
+    "end": "0:39:30",
+    "text": "The brands that do are the brands that win.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:30",
+    "end": "0:39:32",
+    "text": "It's really simple.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:32",
+    "end": "0:39:38",
+    "text": "Honestly, it's things like thanking your customers, offering tips on products education or product usage,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:38",
+    "end": "0:39:42",
+    "text": "offering discounts to people just to say thanks for repeat orders.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:39:42",
+    "end": "0:39:47",
+    "text": "The small things really do go a long way with all of this because the bar is so low.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:39:47",
+    "end": "0:39:48",
+    "text": "100%.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:39:48",
+    "end": "0:39:51",
+    "text": "And I was actually shooting that part of the course recently.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:39:51",
+    "end": "0:39:55",
+    "text": "I was going through that certification part and I was like, man, as I talk about this,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:55",
+    "end": "0:39:59",
+    "text": "I get really passionate about post purchase, but no one talks about post purchase.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:39:59",
+    "end": "0:40:05",
+    "text": "They're more focused on the pop-up experience and they are focused on the whole idea that a repeat customer",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:40:05",
+    "end": "0:40:09",
+    "text": "is where mostly 80% of your revenue generally comes from.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:40:09",
+    "end": "0:40:13",
+    "text": "Yeah, it's kind of like that quote kind of reminds me of like, I think, I don't know if it was Warren Buffett or whatever,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:40:13",
+    "end": "0:40:17",
+    "text": "where he talks about like when people are greedy, he gets scared.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:40:17",
+    "end": "0:40:18",
+    "text": "When people are scared, he gets greedy.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:40:18",
+    "end": "0:40:21",
+    "text": "I think it's the same thing with all of these things within email.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:40:21",
+    "end": "0:40:25",
+    "text": "It's like the things that are sexy, sure, you have to do those campaigns or whatever.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:40:25",
+    "end": "0:40:27",
+    "text": "But it's the things that are often forgotten.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:40:27",
+    "end": "0:40:29",
+    "text": "That's where like the special sauce is.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:40:29",
+    "end": "0:40:36",
+    "text": "That's the retention sauces in the automations, the saying thank yous, the following up, the lending the hand,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:40:36",
+    "end": "0:40:41",
+    "text": "the things that people often forget about, but are really basic human things of like belonging,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:40:41",
+    "end": "0:40:44",
+    "text": "community and communication and thankfulness and gratitude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:40:44",
+    "end": "0:40:47",
+    "text": "That is really where I think people need to be focused.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:40:47",
+    "end": "0:40:52",
+    "text": "So the last prediction I have, I guess that we kind of discussed together was prediction 10,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:40:52",
+    "end": "0:40:54",
+    "text": "so which is data-driven decision making.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:40:54",
+    "end": "0:40:57",
+    "text": "And I don't think this is going to be a surprise for anyone.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:40:57",
+    "end": "0:41:01",
+    "text": "But I think that we felt we had to mention it just because so few people are actually doing this, right?",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:41:01",
+    "end": "0:41:03",
+    "text": "You're collecting all this data.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:03",
+    "end": "0:41:04",
+    "text": "It just sitting collecting dust.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:04",
+    "end": "0:41:06",
+    "text": "So it's not really being utilized.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:06",
+    "end": "0:41:12",
+    "text": "So I think leveraging real-time data become the foundation of these effective strategies, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:12",
+    "end": "0:41:16",
+    "text": "Brands that can analyze and act on this stuff quickly will have a huge advantage.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:41:16",
+    "end": "0:41:21",
+    "text": "I think what happens a lot of times is brands and agencies, they'll do like a month or a quarter",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:41:21",
+    "end": "0:41:26",
+    "text": "or maybe an annual year-end review and like, oh wow, you know, back in February of last year,",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:41:26",
+    "end": "0:41:31",
+    "text": "this thing happened and then they'll try to act on it's like, bro, you're like 11 months, almost 12 months too late.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:41:31",
+    "end": "0:41:32",
+    "text": "Like, what are you doing?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:41:32",
+    "end": "0:41:35",
+    "text": "What you're sleeping at the wheel.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:41:35",
+    "end": "0:41:38",
+    "text": "Use it when you have it because that's one that's most relevant.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:38",
+    "end": "0:41:42",
+    "text": "And that's why automations work so well is because they're timely.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:42",
+    "end": "0:41:48",
+    "text": "They're taking advantage of now moment and actionable moment and they're capitalizing on it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:48",
+    "end": "0:41:48",
+    "text": "Yeah, dude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:48",
+    "end": "0:41:52",
+    "text": "In the certification, I was talking about cohort analysis exactly around this around.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:52",
+    "end": "0:41:54",
+    "text": "Look, we all know the basic data, right?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:41:54",
+    "end": "0:41:59",
+    "text": "Open click, bounce, unsubscribe and all that stuff and the trend lines behind it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:41:59",
+    "end": "0:42:04",
+    "text": "But the reality is understanding not only how the dynamic segmentation comes in play,",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:42:04",
+    "end": "0:42:09",
+    "text": "how predictive analytics can help you, how the data can help you almost uncover opportunities.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:09",
+    "end": "0:42:13",
+    "text": "You know, one of the things that people fail at is like you have to look all the way from hey,",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:13",
+    "end": "0:42:15",
+    "text": "where did my traffic source come from?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:15",
+    "end": "0:42:17",
+    "text": "How long did it get taken to acquire?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:42:17",
+    "end": "0:42:18",
+    "text": "What did it look like?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:42:18",
+    "end": "0:42:21",
+    "text": "And what was their overall length of customer lifetime value?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:42:21",
+    "end": "0:42:26",
+    "text": "Not just your immediate AOV, not just your immediate retention numbers and start uncovering opportunities",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:42:26",
+    "end": "0:42:29",
+    "text": "because sometimes people forget again, just your point.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:42:29",
+    "end": "0:42:33",
+    "text": "They want to go challenge and go chase all the sexy shiny items.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:42:33",
+    "end": "0:42:39",
+    "text": "But sometimes it's the most unsexy thing that helps you actually scale and actually leverage and maximize that money.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:39",
+    "end": "0:42:45",
+    "text": "So I think brands will invest more this year on centralized data warehousing and platforms to lead the way.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:45",
+    "end": "0:42:46",
+    "text": "Dude, well said.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:46",
+    "end": "0:42:47",
+    "text": "Man, that was a lot.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:47",
+    "end": "0:42:49",
+    "text": "I am fired up, but I'm tired.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:49",
+    "end": "0:42:51",
+    "text": "That was a lot. We talked for a long time, dude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:42:51",
+    "end": "0:42:55",
+    "text": "But you know, I think there was a couple of core messages that came out and you nailed it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:42:55",
+    "end": "0:43:01",
+    "text": "It's the whole like we all focus on too much of the shiny, not enough on the unshiny, but the data doesn't lie.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:43:01",
+    "end": "0:43:05",
+    "text": "The data has told us that the unshiny is the actual shiny object.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:43:05",
+    "end": "0:43:10",
+    "text": "And based on our predictions, as much as it sounds, we basically said the same thing in a whole indirect way.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:43:10",
+    "end": "0:43:12",
+    "text": "So let's see what happens, man.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:43:12",
+    "end": "0:43:17",
+    "text": "I can't wait to go 12 months into the future and then come back to this and say, Chase, were we right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:43:17",
+    "end": "0:43:20",
+    "text": "Were we wrong? And what are our predictions for 2026?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:43:20",
+    "end": "0:43:25",
+    "text": "I think they're going to age well and special thanks to Omnisyn for making this data accessible to us.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:43:25",
+    "end": "0:43:27",
+    "text": "And we can't wait to make it accessible to you guys as well.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:43:27",
+    "end": "0:43:30",
+    "text": "Yeah. And thanks for them for sponsoring the pot too, right?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:43:30",
+    "end": "0:43:34",
+    "text": "Real big, not only a great partner sponsoring the pot, but they're giving us information.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:43:34",
+    "end": "0:43:39",
+    "text": "Information that's nowhere available on the internet until we publish it and then they're going to publish it later.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:43:39",
+    "end": "0:43:41",
+    "text": "So we're going to get first act to get it out there.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:43:41",
+    "end": "0:43:49",
+    "text": "So if you listen to this pod, we're the first to publish it and check out our newsletter to make sure you get the actual report because there's way more information on that report.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:43:49",
+    "end": "0:43:51",
+    "text": "We're just giving you the things that were highlighted.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:43:51",
+    "end": "0:43:54",
+    "text": "All right. With that, that's a wrap, dude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:43:54",
+    "end": "0:44:00",
+    "text": "If you enjoyed this podcast, please make sure you subscribe, follow, leave us a rating on your favorite podcast listing platform.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:44:00",
+    "end": "0:44:04",
+    "text": "Even if you hated our podcast, please leave us a rating so we know how to get better at it.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:44:04",
+    "end": "0:44:10",
+    "text": "Right. And you can follow our show on X LinkedIn, YouTube, IG, TikTok, et cetera.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:44:10",
+    "end": "0:44:23",
+    "text": "And, you know, I've already mentioned it like four times, but if you're not on our newsletter right now and you're listening to this pod and you enjoy what we talk about and you want to talk about Ecom and you want to know about a certification program, even you should join Ecomemailmarketer.com.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:44:23",
+    "end": "0:44:27",
+    "text": "We drop newsletters twice a week now and you should go ahead and check that out right away.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:44:27",
+    "end": "0:44:31",
+    "text": "And of course, where can we find each other on social? Chase, where do we find you on social?",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:44:31",
+    "end": "0:44:39",
+    "text": "I'm on most platforms, if not all platforms, Chase, Diamond, No A in Diamond, might have an Ecom in front of on some, but just look up Chase Diamond.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:44:39",
+    "end": "0:44:44",
+    "text": "We're going to get you like a slogan going for that eventually, like something that rhymes real nice on that.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:44:44",
+    "end": "0:44:46",
+    "text": "For me, it's LinkedIn and X. You can find me.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:44:46",
+    "end": "0:44:48",
+    "text": "I talk about retention all the time so you can check me out.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:44:48",
+    "end": "0:44:52",
+    "text": "And special thanks to Appru and OmniSend for being a sponsor of this pod today.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:44:52",
+    "end": "0:44:56",
+    "text": "All right. Last thing, Chase, next week, we have a really fun guest.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:44:56",
+    "end": "0:44:59",
+    "text": "A billion dollar brand with a thousand retail stores.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:44:59",
+    "end": "0:45:04",
+    "text": "We're talking Omni Channel, retention, mobile apps, push notifications and so much more.",
+    "speaker": "Unknown"
+  },
+  {
+    "start": "0:45:04",
+    "end": "0:45:06",
+    "text": "You excited about that one?",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:45:06",
+    "end": "0:45:07",
+    "text": "Yeah, dude, I'm pumped.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:45:07",
+    "end": "0:45:08",
+    "text": "Yeah, dude, I'm excited.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:45:08",
+    "end": "0:45:09",
+    "text": "Well, this is a great one, dude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:45:09",
+    "end": "0:45:11",
+    "text": "Thanks for jumping on as always, dude.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:45:11",
+    "end": "0:45:13",
+    "text": "We'll see you guys all next week.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:45:13",
+    "end": "0:45:15",
+    "text": "See you guys later.",
+    "speaker": "SPEAKER_00"
+  },
+  {
+    "start": "0:45:26",
+    "end": "0:45:27",
+    "text": "You know, you got to send it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:45:27",
+    "end": "0:45:30",
+    "text": "Yeah, you know, you got to send it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:45:30",
+    "end": "0:45:32",
+    "text": "Yeah, you know, you got to send it.",
+    "speaker": "SPEAKER_02"
+  },
+  {
+    "start": "0:45:32",
+    "end": "0:45:34",
+    "text": "Yeah, you know, you got to send it.",
+    "speaker": "SPEAKER_02"
+  }
+]

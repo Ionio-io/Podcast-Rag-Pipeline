@@ -31,7 +31,7 @@ build/
 .DS_Store
 Thumbs.db
 
-# Media files
+# Media files (large video/audio files)
 *.mp3
 *.wav
 *.m4a
@@ -45,4 +45,15 @@ Thumbs.db
 *.flv
 *.mkv
 *.webm 
-*.json
+
+# But keep transcript JSON files in transcripts/
+audio/
+videos/
+downloaded_videos/
+!transcripts/*.json
+!setup.sh
+
+# Temporary files
+.streamlit/
+*.tmp
+*.temp
