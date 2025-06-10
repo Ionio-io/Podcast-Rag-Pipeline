@@ -32,6 +32,13 @@ source venv/bin/activate
 echo "📥 Installing dependencies..."
 pip install -r requirements.txt
 
+# Create necessary directories
+echo "📁 Creating project directories..."
+mkdir -p transcripts
+mkdir -p audio
+mkdir -p videos
+mkdir -p downloaded_videos
+
 # Create .env file template if it doesn't exist
 if [ ! -f ".env" ]; then
     echo "📝 Creating .env template..."

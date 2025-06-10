@@ -56,14 +56,24 @@ class ResponsesAPIRAG:
     def process_transcripts(self, transcript_dir: str):
         """Process all transcript files and create vector store for Responses API."""
         try:
+            # Create transcript directory if it doesn't exist
+            os.makedirs(transcript_dir, exist_ok=True)
+            
             # Create vector store first
             self.create_vector_store("Transcript RAG System")
             
+            # Check if directory has any transcript files
+            transcript_files = [f for f in os.listdir(transcript_dir) if f.endswith(('.json', '.txt'))]
+            
+            if not transcript_files:
+                print(f"No transcript files found in {transcript_dir}")
+                print("Please add transcript files (.json or .txt) to this directory first.")
+                return
+            
             # Upload all files to the vector store
-            for filename in os.listdir(transcript_dir):
-                if filename.endswith(('.json', '.txt')):
-                    file_path = os.path.join(transcript_dir, filename)
-                    self.upload_file(file_path)
+            for filename in transcript_files:
+                file_path = os.path.join(transcript_dir, filename)
+                self.upload_file(file_path)
             
             print(f"Processed {len(self.uploaded_files)} files for Responses API")
         except Exception as e:

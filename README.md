@@ -88,18 +88,21 @@ Then open your browser to the displayed URL (usually http://localhost:8501) to:
 
 ```
 TranscribeRohan/
-├── app.py                    # Streamlit RAG interface
+├── setup.sh                 # Quick setup script  
+├── app.py                   # Streamlit RAG interface
 ├── rag_system.py            # OpenAI Responses API integration
 ├── transcribe.py            # Main transcription script
 ├── extract_audio.py         # Audio extraction utilities
 ├── download_youtube.py      # YouTube downloader
 ├── requirements.txt         # All dependencies
 ├── .env                     # Environment variables (create this)
-├── transcripts/             # Generated transcript files (JSON)
-├── audio/                   # Extracted audio files (WAV)
-├── videos/                  # Local video files
-└── downloaded_videos/       # YouTube downloads
+├── transcripts/             # Generated transcript files (JSON)*
+├── audio/                   # Extracted audio files (WAV)*
+├── videos/                  # Local video files*
+└── downloaded_videos/       # YouTube downloads*
 ```
+
+*_Directories are created automatically when needed_
 
 ## Output Formats
 
@@ -139,6 +142,7 @@ Saved as JSON files in `transcripts/` directory:
 
 ## Notes
 
+- **Automatic Directory Creation**: All necessary directories (`transcripts/`, `audio/`, `videos/`, `downloaded_videos/`) are created automatically when running scripts or setup
 - Large media files (videos/audio) are excluded from git by default
 - Transcript JSON files in `transcripts/` are preserved in git
 - The RAG system uses OpenAI's latest Responses API with file search capabilities
