@@ -7,7 +7,7 @@ torchaudio==2.1.2
 tqdm==4.66.1
 numpy>=1.26.0
 python-dotenv==1.0.1
-requests==2.31.0
+requests==2.32.4
 
 # RAG system dependencies
 openai>=1.54.0
