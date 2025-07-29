@@ -1,4 +1,4 @@
-# TranscribeRohan - Video Transcription & RAG System
+# Ionio Podcast Rag Pipeline - Video Downloading, Transcription & RAG System
 
 A complete video processing pipeline that downloads YouTube videos, transcribes them using OpenAI's Whisper, and provides a RAG (Retrieval-Augmented Generation) interface using OpenAI's Responses API for querying transcripts.
 
