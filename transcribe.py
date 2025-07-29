@@ -91,7 +91,7 @@ def format_timestamp(seconds):
     """Convert seconds to HH:MM:SS format"""
     return str(timedelta(seconds=round(seconds)))
 
-def transcribe_audio(audio_path, with_diarization=True, progress_callback=None):
+def transcribe_audio(audio_path, with_diarization=True, progress_callback=None, model_size="medium"):
     """
     Transcribe audio file using Whisper and optionally perform speaker diarization
     
@@ -99,6 +99,7 @@ def transcribe_audio(audio_path, with_diarization=True, progress_callback=None):
         audio_path (str): Path to the audio file
         with_diarization (bool): Whether to perform speaker diarization
         progress_callback (callable): Optional callback function to report progress (0-100)
+        model_size (str): Size of the Whisper model to use ("base", "small", "medium", "large")
     """
     # Create transcripts directory if it doesn't exist
     os.makedirs("transcripts", exist_ok=True)
@@ -107,8 +108,8 @@ def transcribe_audio(audio_path, with_diarization=True, progress_callback=None):
     base_name = os.path.splitext(os.path.basename(audio_path))[0]
     
     # Load Whisper model
-    logger.info("Loading Whisper model...")
-    model = load_whisper_model_with_retry()
+    logger.info(f"Loading Whisper model ({model_size})...")
+    model = load_whisper_model_with_retry(model_name=model_size)
     
     # Transcribe audio
     logger.info("Transcribing audio...")
